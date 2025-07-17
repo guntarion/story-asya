@@ -1,7 +1,5 @@
 # Roxanne's Vanity Crisis: A Funny Horror Adventure
 
-_A Funny Horror Movie for Kids Age 12_
-
 **Starring:** Roxanne Wolf, Gregory, and Glamrock Freddy
 
 ---

@@ -1,7 +1,5 @@
 # The Great Coffee Magic Mishap
 
-_A Cookie Run: Kingdom Story_
-
 ## Chapter 1: The Perfect Morning... Or Not?
 
 It was 6:47 AM in the Cookie Kingdom, and Espresso Cookie was already on his 15th cup of coffee. His dark cape swirled dramatically as he paced around his laboratory, adjusting his coffee-cup-shaped glasses for the hundredth time.
