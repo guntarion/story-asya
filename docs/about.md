@@ -1,0 +1,73 @@
+# Cookie Run: Kingdom
+
+Cookie Run: Kingdom is a 2021 role-playing video game developed and published by Devsisters. It is the sixth game in the Cookie Run series. It was announced on November 28, 2020, and released worldwide on January 19, 2021, on Android and iOS. On July 12, 2023, it was released on Google Play Games on PC.
+
+The game features a cast of new and returning Cookies throughout the series. features an elaborate ongoing narrative, with the plot being spread across chapters released in successive updates.
+
+## Gameplay
+is a free-to-play role-playing and city-building battle simulator. The game is mainly played by building the player's Cookie Kingdom and collecting Cookies using the game's gacha to fight in various game modes.
+
+In the kingdom, players place production buildings to produce goods and materials, which are mainly used for upgrading buildings and game aspects, or can be traded through various facilities for rewards. Players are free to decorate their kingdoms with a catalog of decorative items which can be acquired with the game's currency or with real money. New facilities and land expansion are unlocked by upgrading the Cookie Castle.
+
+The game modes include PvP and Guild systems, various PvE challenges, seasonal and event game modes that add strategy and variety to the team-building mechanics, and Special Episodes that feature side stories, with some that tie into major side characters. The main story mode, World Exploration, includes two worlds, Crispia and Beast-Yeast, both giving different rewards.
+
+The game features over 153 Cookies obtained in the gacha, with high-tier rarities (Legendary, Dragon, Ancient, Beast). In addition, non-playable Guest Cookies and MyCookie can be placed in the kingdom.
+
+## Plot
+Illustration of the five Ancient Cookies (from left to right): White Lily Cookie, Dark Cacao Cookie, Pure Vanilla Cookie, Hollyberry Cookie, and Golden Cheese Cookie
+is set in a world populated by anthropomorphized cookies, desserts, and other food items. The five Ancient Heroes, a group of virtuous Cookies, have each established their own kingdoms and were bestowed Soul Jams, gemstone-like artifacts which granted them immense powers and immortality; each Soul Jam and Ancient Hero corresponded to a virtue. When White Lily Cookie, one of the five Ancient Heroes, discovered that Cookies were created to be eaten, she fell into a vat of the Ultimate Dough and was "rebaked" as Dark Enchantress Cookie, the game's main antagonist. The Ancient Heroes proceeded to fight against Dark Enchantress Cookie, losing their Soul Jams in the process. The Heroes then went into hiding or confinement, leaving their kingdoms in disarray.
+
+A long time after this altercation, GingerBrave, the game's main protagonist, along with his friends Wizard Cookie and Strawberry Cookie, find themselves in the ruins of a former kingdom. Over the course of the game, they rebuild the kingdom. The trio later meets Chili Pepper Cookie and Custard Cookie III and set off on a long chase after a Cake Hound, a dog-like creature made from a slice of cake, that stole and ran off with the kingdom's crown. As the group journey across the various regions of Crispia, one of the game's major continents, the crown quickly becomes irrelevant as they learn about the history of the fallen kingdoms and Dark Enchantress Cookie's plans. They begin their search for the Ancient Cookies, along with various other powerful Cookie figures, to enlist their help in defeating Dark Enchantress Cookie.
+
+After some time, the group heads to the continent of Beast-Yeast to explore and find the remaining undiscovered Ancient Hero. They discover the Faerie Kingdom, where they find White Lily Cookie in a vegetative state, and it is revealed that part of her soul and body escaped from the "rebake". It is also revealed that the Ancient Heroes' Soul Jams were once held by primordial Cookie heroes called the Five Beasts. However, the Five Beasts corrupted the Soul Jams and their virtues and were sealed away by the Witches, imprisoned deep within Beast-Yeast for their crimes. Soon after, Shadow Milk Cookie, one of the original Five Beasts and Pure Vanilla Cookie’s counterpart, escapes his prison and attempts to bring chaos to the world, trying to steal Pure Vanilla Cookie's Soul Jam along the way. White Lily Cookie seals him back, but the idea that the Five Beasts could return at any moment worries the Ancient Heroes. Each of the Ancient Heroes is sent to face their corresponding Beast to preemptively stop them from causing destruction and attempting to take back the Soul Jams they once possessed, with each Ancient gaining stronger "Awakened" forms in the process.
+
+## Characters
+
+As of July 4th, 2025, there are a total of 161 playable Cookies in the game. Each Cookie can be categorized by their rarity, position, and type. Each Cookie is split into 10 rarities (the latter four denoting their power status in the game's story) - Common, Rare, Special, Epic, Super Epic, Legendary, Dragon, Beast, Ancient (which can receive "Awakening"), and Guest. Special Cookies can only be obtained through limited events or the Pavilion of Promise gacha. Guest Cookies are NPCs that can be placed in the kingdom, some of which are from other Cookie Run games.
+
+MyCookie, a customizable playable Cookie, is controllable and can only be used in Cuckoo Town Square, the game's player hub, its related event minigames and in a mode called MyCookie Adventure, in which players control MyCookie to defeat monsters in each stage.
+
+The game has had several collaborations that feature limited characters. In September 2021, Sonic Cookie and Tails Cookie were added as part of Sega's Sonic the Hedgehog's 30th anniversary. 2022 saw two collaborations with dedicated updates: Festival of Dreams and Wishes introduced Disney Cookies as Guests and ran between July and September 2022, and Braver Together, which added the members of BTS as playable Cookies, ran between October and November 2022.[1]
+
+
+
+# Dandy's World
+
+Dandy's World is a Roblox survival-horror game where players navigate an abandoned educational center, completing tasks and avoiding corrupted "Twisted" versions of the game's characters, known as Toons. The game is inspired by Bendy and the Ink Machine, Dead by Daylight, and Identity V. Players, as Toons, must extract Ichor (a substance) from machines while evading the Twisted, who are animated by the same Ichor. The game features a progression system where players descend through multiple floors, facing increasingly difficult challenges and more dangerous Twisted. 
+
+Dandy's World or DW (shortened) is a 2024 indie mascot horror game created by Qwelver. Dandy's World is one of two games Qwelver has created under BlushCrunch Studio, the other one being Flavor Frenzy. Dandy's World is part of the mascot horror genre and was initially released on June 14, 2024.
+As a Roblox game, Dandy's World requires both an active internet connection and a Roblox account in order to play the game. The player can choose to either join a public server or host a private one for free, although private servers are highly recommended if it is your first time playing the game.
+
+
+
+Here's a more detailed breakdown:
+Setting:
+The game takes place in the Garden View Center, a defunct educational facility and museum. 
+Gameplay:
+Players team up to complete tasks, such as filling Ichor Extraction Machines, while avoiding the Twisted. 
+Twisted:
+These are corrupted versions of the Toons, animated by the Ichor they extract. 
+Progression:
+Players descend through floors, with each level presenting new challenges and more dangerous Twisted. 
+Inspiration:
+The game draws inspiration from other popular horror titles, incorporating elements from Bendy and the Ink Machine, Dead by Daylight, and Identity V. 
+Multiplayer:
+Dandy's World is a multiplayer game, encouraging teamwork to survive. 
+
+
+Description and Mechanics
+Upon entering the game, the player will be transported into the Lobby as a Toon. If it is the first time the player has joined the game, they will have the choice to select between  Poppy or  Boxten before entering the Lobby. From there, the player can view and select their Toon, Toon Skin, and Trinkets as well as view their progress on Mastery and Twisted Research. A short information menu is also viewable in the interface that explains the basic mechanics of the game. You can also buy various things including new Toons, Trinkets, or Skins from Dandy's Store, access Roleplaying Mode through a door to the left in the spawning area or enter one of the three Elevator shafts in the bigger part of the Lobby to play a round. Only eight players can enter the Elevator at a time. After 15 seconds following the first player entering the Elevator, if one or more players are still on, the Elevator will close and all players inside it will be teleported out of the Lobby and into a round.
+
+After the game waits for players to join into the actual game, the players may have 15 seconds to change their loadout if they desire. After the 15 seconds are up, all players will spawn in the Elevator with their desired Toons and Trinkets. There is no limit as to how many players can play as the exact same Toon. From there, the game will generate a map for each Floor, including the number and placement of the Machines and the number of Twisteds present on the Floor. The amount of Machines and Twisteds scales with the number of Floors passed and the amount of players still alive in the round: at the start, only four Machines and two Twisteds will appear. What kinds of Twisteds will spawn in a given Floor will also depend on the number of Floors passed, with the game not spawning Main Character Twisteds until at least Floor 5.
+
+The goal of the game is to survive as many Floors as possible, while also assisting other players. To advance to the next Floor, players must fill Machines by extracting Ichor. This can be done by interacting with the Machine if close enough, and the player can press the Interact key (E) or the "Stop Extracting" button while on a Machine to stop extracting. While on a Machine, a quick-time event called a Skill Check has a chance to occur. When a Skill Check occurs, a bar will appear along with an indicator that will move from the left to the right of the bar. The player must either press the space bar or press the "PRESS TO SKILLCHECK" button above the bar upon reaching the light gray window or the golden window in order to pass the Skill Check. If the Skill Check is failed, the Machine will briefly stop extracting and any Twisteds nearby will be alerted to the Machine. Landing the golden window during a Skill Check will add extra completion to the Machine and say, 'Great Job'.
+
+The player has a maximum of three Hearts (two Hearts if the Toon is a Main Character) and will also have a Stamina bar from 100 to 200 depending on their Stamina Stat. They could hold the Shift key on PC or press the speed toggle on mobile in order to sprint, which will deplete the Stamina bar for however long they sprint. While not sprinting, the player will recover Stamina over time. If the player is hit by a Twisted's attack or uses an Ability that causes them to take damage, they will lose one Heart. If all Hearts are lost, the player will die and will be offered to either spectate other players or return to the Lobby. Upon the player's death, they will be shown how much Ichor they earned in the round, which is based on the number of Floors they survived, how many Twisteds they encountered, and how many Items they picked up, with Ichor also being earned during the round through completing Machines, picking up Research Capsules, and using their Toon's Active Ability if they have one. The player can restore Hearts by obtaining healing items.
+
+Once all Machines are filled, Panic Mode will begin. During Panic Mode, Twisteds will become faster, although the speed boost can be mitigated using the "Suppression" card if selected in a Card Vote. Players will have no less than 30 seconds to return into the Elevator. Once the timer is up, the Elevator will close and any players that didn't make it in will be instantly killed, regardless of how many Hearts they have remaining ( Connie and  Bobette's abilities are also ignored). The Elevator will close immediately if all players still alive have entered, regardless of how much time is left during Panic Mode.
+
+Each Toon has a set of 6 Stats (Health, Skill Check, Movement Speed, Stamina, Stealth, and Extraction Speed) and at least one Ability to assist them or other players. These abilities can either be passive or active, in which active abilities can be activated by pressing the ability's icon next to the item inventory or by pressing the F key. On Floors, players can find various Items that can assist them. They can also find Tapes, which they can use to trade for items at Dandy's elevator shop or activate their Toon's ability if it requires Tapes, and Research Capsules that could add 1% Research to any of the Twisteds (2% if  Rodger) on the Floor. The Toons also have dialogue that they could say for completing a Machine, using their active ability, or after a Floor is complete. Before odd-numbered Floors, if more than one player is still present and the players have different Toons, there is a chance for their Toons to have a conversation.
+
+After a Floor is complete, one of two things will happen: if the next Floor is even-numbered,  Dandy will open up his shop for the players to exchange Tapes for any of three randomly generated Items, including Items that are normally only available through his shop. While all three items can be bought, only one of each can be bought at a time. The players can also choose to buy nothing but having every player doing so for three times in a row or more will give  Twisted Dandy a chance to spawn. If the next Floor is odd-numbered, a Card Vote will occur, in which players can vote for one of three Cards; the card with the most votes will have its effects applied.
+
+As the player does various activities in a round, such as extracting from Machines or using their Toon's active ability (if applicable) or collecting Capsules, they will collect Ichor, which acts as the currency of the game. Ichor can also be bought using Robux, Roblox's currency. The player can use Ichor to purchase new Toon licenses. Trinkets. or Toon Skins from Dandy's Store in the Lobby. Most Toons and Trinkets do require the player to do various tasks on top of collecting enough Ichor to purchase, such as completing machines, using Items, or researching specific Twisteds.
