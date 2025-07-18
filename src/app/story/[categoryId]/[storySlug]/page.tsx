@@ -1,6 +1,4 @@
 import { notFound } from 'next/navigation'
-import { Box } from '@chakra-ui/react'
-import Header from '@/components/Header'
 import StoryReader from '@/components/StoryReader'
 import { getStoryBySlug } from '@/lib/stories-client'
 import { getStoryContent } from '@/lib/stories'
@@ -23,10 +21,5 @@ export default async function StoryPage({ params }: StoryPageProps) {
   
   const content = await getStoryContent(story)
 
-  return (
-    <Box minH="100vh">
-      <Header />
-      <StoryReader story={story} content={content} />
-    </Box>
-  )
+  return <StoryReader story={story} content={content} />
 }

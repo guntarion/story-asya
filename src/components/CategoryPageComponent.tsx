@@ -14,7 +14,6 @@ import {
 } from '@chakra-ui/react'
 import { ArrowBackIcon } from '@chakra-ui/icons'
 import Link from 'next/link'
-import Header from '@/components/Header'
 import StoryCard from '@/components/StoryCard'
 import { Category, Story } from '@/types/story'
 
@@ -32,8 +31,7 @@ export default function CategoryPageComponent({
   const bg = useColorModeValue('gray.50', 'gray.900')
 
   return (
-    <Box minH="100vh" bg={bg}>
-      <Header />
+    <Box bg={bg}>
       <Container maxW="container.xl" py={8}>
         <VStack spacing={8} align="stretch">
           <Link href="/">

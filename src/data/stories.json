@@ -17,6 +17,24 @@
       "filename": "cookie-002-The-Chronicles-of-Mystic-Flour-Cookie.md",
       "unlockDate": "2025-01-03T00:00:00.000Z",
       "description": "Discover the mystical adventures of Mystic Flour Cookie."
+    },
+    {
+      "id": "cookie-003",
+      "title": "Cloud Haetae Cookie and the Great Steamed Bun Disaster",
+      "slug": "cloud-haetae-cookie-and-the-great-steamed-bun-disaster",
+      "category": "cookierun",
+      "filename": "cookie-003-Cloud-Haetae-Cookie-and-the-Great-Steamed-Bun-Disaster.md",
+      "unlockDate": "2025-07-18T05:04:00.000Z",
+      "description": "Cloud Haetae Cookie and the Great Steamed Bun Disaster."
+    },
+    {
+      "id": "cookie-004",
+      "title": "Candy Apple Cookie and the Sweetest Truth",
+      "slug": "candy-apple-cookie-and-the-sweetest-truth",
+      "category": "cookierun",
+      "filename": "cookie-004-Candy-Apple-Cookie-and-the-Sweetest-Truth.md",
+      "unlockDate": "2025-07-18T05:50:00.000Z",
+      "description": "Candy Apple Cookie and the Sweetest Truth."
     }
   ],
   "dandysworld": [

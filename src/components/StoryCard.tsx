@@ -29,7 +29,14 @@ export default function StoryCard({ story }: StoryCardProps) {
   const formattedDate = unlockDate.toLocaleDateString('en-US', {
     year: 'numeric',
     month: 'long',
-    day: 'numeric'
+    day: 'numeric',
+    timeZone: 'Asia/Jakarta'
+  })
+  const formattedTime = unlockDate.toLocaleTimeString('en-US', {
+    hour: '2-digit',
+    minute: '2-digit',
+    timeZone: 'Asia/Jakarta',
+    hour12: true
   })
 
   const CardContent = (
@@ -72,7 +79,7 @@ export default function StoryCard({ story }: StoryCardProps) {
           
           <HStack fontSize="xs" color="gray.500">
             <Icon as={TimeIcon} />
-            <Text>{story.isLocked ? `Unlocks ${formattedDate}` : 'Available now'}</Text>
+            <Text>{story.isLocked ? `Unlocks ${formattedDate} at ${formattedTime}` : 'Available now'}</Text>
           </HStack>
         </HStack>
       </VStack>

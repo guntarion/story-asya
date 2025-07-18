@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import { Providers } from '@/components/providers'
+import LayoutWrapper from '@/components/LayoutWrapper'
 
 export const metadata: Metadata = {
   title: 'Story Asya - Kids Stories',
@@ -12,10 +13,12 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
-      <body>
+    <html lang="en" suppressHydrationWarning>
+      <body suppressHydrationWarning>
         <Providers>
-          {children}
+          <LayoutWrapper>
+            {children}
+          </LayoutWrapper>
         </Providers>
       </body>
     </html>

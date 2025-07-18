@@ -9,7 +9,6 @@ import {
   Box,
   useColorModeValue,
 } from '@chakra-ui/react'
-import Header from '@/components/Header'
 import CategoryCard from '@/components/CategoryCard'
 import { Category } from '@/types/story'
 
@@ -27,8 +26,7 @@ export default function HomePage({ categoriesWithCounts }: HomePageProps) {
   const bg = useColorModeValue('gray.50', 'gray.900')
 
   return (
-    <Box minH="100vh" bg={bg}>
-      <Header />
+    <Box bg={bg}>
       <Container maxW="container.xl" py={8}>
         <VStack spacing={8} align="stretch">
           <VStack spacing={4} textAlign="center">
@@ -37,7 +35,9 @@ export default function HomePage({ categoriesWithCounts }: HomePageProps) {
               bgGradient="linear(to-r, brand.400, brand.600, brand.800)"
               bgClip="text"
             >
-              Welcome to Story Asya
+              Welcome to Asya&apos;s
+              <br />
+              Stories Collection
             </Heading>
             <Text fontSize="lg" color="gray.600" maxW="2xl">
               Discover magical stories from your favorite worlds! Choose a category below to start reading.
