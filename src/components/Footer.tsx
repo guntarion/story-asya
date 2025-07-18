@@ -8,6 +8,7 @@ import {
   Flex,
   Icon,
 } from '@chakra-ui/react'
+import Link from 'next/link'
 
 // Heart icon component
 const HeartIcon = (props: any) => (
@@ -49,7 +50,11 @@ export default function Footer() {
               color="red.500"
               aria-label="love"
             />{' '}
-            for Asya by Papa Guntar © 2025
+            for Asya by{' '}
+            <Link href="/formating-input" style={{ textDecoration: 'none' }}>
+              Papa Guntar
+            </Link>{' '}
+            © 2025
           </Text>
         </Flex>
       </Container>

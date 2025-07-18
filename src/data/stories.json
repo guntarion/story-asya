@@ -24,7 +24,7 @@
       "slug": "cloud-haetae-cookie-and-the-great-steamed-bun-disaster",
       "category": "cookierun",
       "filename": "cookie-003-Cloud-Haetae-Cookie-and-the-Great-Steamed-Bun-Disaster.md",
-      "unlockDate": "2025-07-18T05:04:00.000Z",
+      "unlockDate": "2025-07-18T14:05:00.000Z",
       "description": "Cloud Haetae Cookie and the Great Steamed Bun Disaster."
     },
     {
@@ -33,9 +33,18 @@
       "slug": "candy-apple-cookie-and-the-sweetest-truth",
       "category": "cookierun",
       "filename": "cookie-004-Candy-Apple-Cookie-and-the-Sweetest-Truth.md",
-      "unlockDate": "2025-07-18T05:50:00.000Z",
+      "unlockDate": "2025-07-18T23:05:00.000Z",
       "description": "Candy Apple Cookie and the Sweetest Truth."
-    }
+    },
+    {
+      "id": "cookie-005",
+      "title": "Dark Cacao Cookie and the Lesson of the Melting Heart",
+      "slug": "dark-cacao-cookie-and-the-lesson-of-the-melting-heart",
+      "category": "cookierun",
+      "filename": "cookie-005-dark-cacao-cookie-and-the-lesson-of-the-melting-heart.md",
+      "unlockDate": "2025-07-19T14:05:00.000Z",
+      "description": "A Cookie Run: Kingdom Continuation Story"
+}
   ],
   "dandysworld": [
     {
@@ -46,6 +55,24 @@
       "filename": "dandys-001-Glisten-Not-So-Perfect-Day.md",
       "unlockDate": "2025-01-02T00:00:00.000Z",
       "description": "Glisten learns that perfection isn't everything in this heartwarming tale."
+    },
+    {
+      "id": "dandys-002",
+      "title": "The Great Blackout Mystery",
+      "slug": "the-great-blackout-mystery",
+      "category": "dandysworld",
+      "filename": "dandys-002-the-great-blackout-mystery.md",
+      "unlockDate": "2025-07-19T23:05:00.000Z",
+      "description": "A thriller about friendship, problem-solving, and the importance of teamwork in the darkest of times"
+    },
+    {
+      "id": "dandys-003",
+      "title": "Dreams in the Dark",
+      "slug": "dreams-in-the-dark",
+      "category": "dandysworld",
+      "filename": "dandys-003-dreams-in-the-dark.md",
+      "unlockDate": "2025-07-20T14:05:00.000Z",
+      "description": "A companion story to \"The Great Blackout Mystery\" - exploring the same events through Astro's unique perspective and abilities."
     }
   ],
   "fnaf": [
