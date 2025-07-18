@@ -1,5 +1,7 @@
 # The Chronicles of Mystic Flour Cookie: A Tale of Wishes and Wisdom
 
+*A Cookie Run: Kingdom Story in Episodes*
+
 ---
 
 ## Episode 1: The Saint of the Ivory Pagoda
@@ -77,9 +79,9 @@ Gingersnap noticed a strange, floury dust seemed to cling to Cinnamon's clothes 
 
 "Gardens die. Flowers wither. What's the point?" Cinnamon's voice was hollow, empty.
 
-The same thing was happening to everyone who visited the pagoda. They would return home, but they seemed to have left their joy, their curiosity, their very _caring_ behind.
+The same thing was happening to everyone who visited the pagoda. They would return home, but they seemed to have left their joy, their curiosity, their very *caring* behind.
 
-Meanwhile, in her tower, Mystic Flour Cookie sat in perfect stillness. She had wrapped herself in her **Cocoon of Futility**, a protective shell that kept all emotions at bay.
+Meanwhile, in her tower, Mystic Flour Cookie sat in perfect stillness. She had wrapped herself in her **Cocoon of Futility**, a protective shell that kept all emotions at bay. 
 
 "Desires cause suffering," she reasoned. "If no one desires anything, no one can be disappointed. If no one cares about anything, no one can be hurt."
 
@@ -151,7 +153,7 @@ Mystic Flour Cookie felt her **Cocoon of Futility** beginning to crack. Emotions
 
 With a sound like breaking glass, the **Cocoon of Futility** shattered completely. Mystic Flour Cookie fell to her knees, overwhelmed by the return of all the emotions she had been hiding from.
 
-She cried – tears of sadness for all the cookies she had hurt, tears of frustration for the impossible situation she had found herself in, and tears of relief that she could finally _feel_ again.
+She cried – tears of sadness for all the cookies she had hurt, tears of frustration for the impossible situation she had found herself in, and tears of relief that she could finally *feel* again.
 
 ---
 
@@ -235,12 +237,11 @@ And whenever young cookies asked her for advice, Mystic Flour Cookie would tell 
 
 The **Lantern of Balanced Light** continues to glow at the top of the Ivory Pagoda, a beacon of hope and wisdom for all who need it. And sometimes, on very quiet nights, you can still hear the gentle sound of cookies laughing and learning in the halls below.
 
-_The End_
+*The End*
 
 ---
 
 ### Character Growth Notes:
-
 - **Mystic Flour Cookie** learned that avoiding emotions isn't the answer – balanced emotional intelligence is
 - Her abilities transformed from tools of suppression to tools of guidance and healing
 - She discovered that helping others sometimes means teaching them to help themselves
@@ -248,7 +249,6 @@ _The End_
 - The story demonstrates that even well-intentioned actions can cause harm if taken to extremes
 
 ### Gameplay Elements Referenced:
-
 - **Regular healing** - transformed from just physical healing to emotional healing
 - **Immunity to incapacitating debuffs** - reframed as emotional resilience and clarity
 - **Realm of Apathy** - became a tool for calm reflection rather than emotional suppression
