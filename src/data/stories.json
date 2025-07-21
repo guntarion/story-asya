@@ -73,7 +73,34 @@
       "filename": "dandys-003-dreams-in-the-dark.md",
       "unlockDate": "2025-07-20T14:05:00.000Z",
       "description": "A companion story to \"The Great Blackout Mystery\" - exploring the same events through Astro's unique perspective and abilities."
-    }
+    },
+    {
+      "id": "dandys-004",
+      "title": "The Mirror Mystery",
+      "slug": "the-mirror-mystery",
+      "category": "dandysworld",
+      "filename": "dandys-004-the-mirror-mystery.md",
+      "unlockDate": "2025-07-21T16:09:00.000Z",
+      "description": "A story about self-reflection, friendship, and discovering that the best mirror is a good friend who sees you clearly"
+    },
+    {
+      "id": "dandys-005",
+      "title": "The Great Hug Misunderstanding",
+      "slug": "the-great-hug-misunderstanding",
+      "category": "dandysworld",
+      "filename": "dandys-005-the-great-hug-misunderstanding.md",
+      "unlockDate": "2025-07-22T14:00:00.000Z",
+      "description": "A story about friendship, communication, and discovering that sometimes the best way to show you care is to understand what the other person really needs."
+    },
+    {
+      "id": "dandys-006",
+      "title": "The Worst Team Ever",
+      "slug": "the-worst-team-ever",
+      "category": "dandysworld",
+      "filename": "dandys-006-the-worst-team-ever.md",
+      "unlockDate": "2025-07-23T14:00:00.000Z",
+      "description": "A story about patience, teamwork, and learning that even the most difficult people can surprise you when given a chance"
+}
   ],
   "fnaf": [
     {
