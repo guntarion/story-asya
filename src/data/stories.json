@@ -89,7 +89,7 @@
       "slug": "the-great-hug-misunderstanding",
       "category": "dandysworld",
       "filename": "dandys-005-the-great-hug-misunderstanding.md",
-      "unlockDate": "2025-07-22T14:00:00.000Z",
+      "unlockDate": "2025-07-23T13:00:00.000Z",
       "description": "A story about friendship, communication, and discovering that sometimes the best way to show you care is to understand what the other person really needs."
     },
     {
@@ -98,7 +98,7 @@
       "slug": "the-worst-team-ever",
       "category": "dandysworld",
       "filename": "dandys-006-the-worst-team-ever.md",
-      "unlockDate": "2025-07-23T14:00:00.000Z",
+      "unlockDate": "2025-07-24T13:00:00.000Z",
       "description": "A story about patience, teamwork, and learning that even the most difficult people can surprise you when given a chance"
 }
   ],
@@ -120,6 +120,43 @@
       "filename": "fnaf-002-Roxanne-Vanity-Crisis.md",
       "unlockDate": "2025-01-05T00:00:00.000Z",
       "description": "Roxanne Wolf faces her biggest challenge yet - a bad hair day!"
+    },
+    {
+      "id": "fnaf-003",
+      "title": "Freddy and Sun's Daycare Disaster: A Horror Adventure",
+      "slug": "freddy-and-suns-daycare-disaster-a-horror-adventure",
+      "category": "fnaf",
+      "filename": "fnaf-003-freddy-and-suns-daycare-disaster-a-horror-adventure.md",
+      "unlockDate": "2025-07-23T13:00:00.000Z",
+      "description": "Starring: Glamrock Freddy, Sun (Daycare Attendant), and Moon (Daycare Attendant)"
+    },
+        {
+      "id": "fnaf-004",
+      "title": "Freddy and the Truth Machine Mystery",
+      "slug": "freddy-and-the-truth-machine-mystery",
+      "category": "fnaf",
+      "filename": "fnaf-004-freddy-and-the-truth-machine-mystery.md",
+      "unlockDate": "2025-07-24T13:06:00.000Z",
+      "description": "A Horror Adventure Starring: Freddy Fazbear, William Afton, Spring Bonnie, and Gregory"
+    },
+    {
+      "id": "fnaf-005",
+      "title": "Michael and Elizabeth's Lost Memory Game",
+      "slug": "michael-and-elizabeths-lost-memory-game",
+      "category": "fnaf",
+      "filename": "fnaf-005-michael-and-elizabeths-lost-memory-game.md",
+      "unlockDate": "2025-07-25T13:06:00.000Z",
+      "description": "A Horror Adventure Starring: Michael Afton, Elizabeth Afton (spirit), and Circus Baby"
+    },
+    {
+      "id": "fnaf-006",
+      "title": "Edwin and William's Robot Rivalry",
+      "slug": "edwin-and-williams-robot-rivalry",
+      "category": "fnaf",
+      "filename": "fnaf-006-edwin-and-williams-robot-rivalry.md",
+      "unlockDate": "2025-07-26T13:06:00.000Z",
+      "description": "A Horror Adventure Starring: Edwin Murray, William Afton, The Mimic, and Spring Bonnie"
     }
+
   ]
 }
