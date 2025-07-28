@@ -5,7 +5,7 @@ import { getStoryContent } from '@/lib/stories'
 
 interface StoryPageProps {
   params: Promise<{
-    categoryId: 'cookierun' | 'dandysworld' | 'fnaf'
+    categoryId: 'cookierun' | 'dandysworld' | 'fnaf' | 'starrystories'
     storySlug: string
   }>
 }

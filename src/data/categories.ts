@@ -21,5 +21,12 @@ export const categories: Category[] = [
     description: 'Fun and less scary adventures with Freddy and friends in their pizzeria world!',
     headerImage: '/assets/images/fnaf-graphic-1200x675.jpeg',
     storiesPath: 'stories/fnaf'
+  },
+  {
+    id: 'starrystories',
+    name: "Starry's Original Stories",
+    description: 'Original creative stories filled with friendship, adventure, and magical mishaps!',
+    headerImage: '/assets/images/starry-image.png',
+    storiesPath: 'stories/starrystories'
   }
 ]
