@@ -15,7 +15,7 @@ export function getAllStories(): Story[] {
       allStories.push({
         ...story,
         isLocked: !isStoryUnlocked(story.unlockDate),
-        category: category as 'cookierun' | 'dandysworld' | 'fnaf'
+        category: category as 'cookierun' | 'dandysworld' | 'fnaf' | 'starrystories'
       })
     })
   })
@@ -23,7 +23,7 @@ export function getAllStories(): Story[] {
   return allStories
 }
 
-export function getStoriesByCategory(category: 'cookierun' | 'dandysworld' | 'fnaf'): Story[] {
+export function getStoriesByCategory(category: 'cookierun' | 'dandysworld' | 'fnaf' | 'starrystories'): Story[] {
   const categoryStories = storiesData[category] || []
   
   return categoryStories.map((story) => ({
@@ -33,7 +33,7 @@ export function getStoriesByCategory(category: 'cookierun' | 'dandysworld' | 'fn
   }))
 }
 
-export function getStoryBySlug(category: 'cookierun' | 'dandysworld' | 'fnaf', slug: string): Story | null {
+export function getStoryBySlug(category: 'cookierun' | 'dandysworld' | 'fnaf' | 'starrystories', slug: string): Story | null {
   const categoryStories = getStoriesByCategory(category)
   return categoryStories.find(story => story.slug === slug) || null
 }
