@@ -168,6 +168,15 @@
       "filename": "starry-001-a-shocking-experiment.md",
       "unlockDate": "2025-07-28T00:00:00.000Z",
       "description": "Nova's potion experiment goes hilariously wrong when she accidentally gives Blingy a past memory potion instead of a shrinking potion!"
+    },
+    {
+      "id": "starry-002",
+      "title": "The First Spark",
+      "slug": "the-first-spark",
+      "category": "starrystories",
+      "filename": "starry-002-the-first-spark.md",
+      "unlockDate": "2025-07-31T00:00:00.000Z",
+      "description": "Young Nova discovers her magical talents when her first potion experiment creates rainbow chaos and dancing soup!"
     }
   ]
 }
