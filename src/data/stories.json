@@ -100,7 +100,16 @@
       "filename": "dandys-006-the-worst-team-ever.md",
       "unlockDate": "2025-07-24T13:00:00.000Z",
       "description": "A story about patience, teamwork, and learning that even the most difficult people can surprise you when given a chance"
-}
+    },
+    {
+      "id": "dandys-007",
+      "title": "The Interdimensional Study Group",
+      "slug": "the-interdimensional-study-group",
+      "category": "dandysworld",
+      "filename": "dandys-007-the-interdimensional-study-group.md",
+      "unlockDate": "2025-08-08T13:00:00.000Z",
+      "description": "A crossover adventure where Dandy's World characters meet FNAF characters, learning about friendship, teamwork, and universal values across dimensions"
+    }
   ],
   "fnaf": [
     {
@@ -156,6 +165,15 @@
       "filename": "fnaf-006-edwin-and-williams-robot-rivalry.md",
       "unlockDate": "2025-07-26T13:06:00.000Z",
       "description": "A Horror Adventure Starring: Edwin Murray, William Afton, The Mimic, and Spring Bonnie"
+    },
+    {
+      "id": "fnaf-007",
+      "title": "Freddy's Dimensional Detective Agency",
+      "slug": "freddys-dimensional-detective-agency",
+      "category": "fnaf",
+      "filename": "fnaf-007-freddys-dimensional-detective-agency.md",
+      "unlockDate": "2025-08-08T14:00:00.000Z",
+      "description": "A crossover adventure where FNAF characters team up with Dandy's World characters to stop William Afton's interdimensional experiments"
     }
 
   ],
