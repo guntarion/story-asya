@@ -195,6 +195,15 @@
       "filename": "starry-002-the-first-spark.md",
       "unlockDate": "2025-07-31T00:00:00.000Z",
       "description": "Young Nova discovers her magical talents when her first potion experiment creates rainbow chaos and dancing soup!"
+    },
+    {
+      "id": "starry-003",
+      "title": "Intar's Science Project",
+      "slug": "intar-science-project",
+      "category": "starrystories",
+      "filename": "starry-003-intar-science-project.md",
+      "unlockDate": "2025-09-06T00:00:00.000Z",
+      "description": "Intar learns the joy of science and teamwork when he reluctantly joins his friends Meteora and Shinta on a rocket-building adventure!"
     }
   ]
 }
