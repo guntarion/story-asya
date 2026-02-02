@@ -1,3 +1,14 @@
+## 2026-02-03 04:04:50
+
+fix: resolve React Hooks errors and add second Metal Cardbot story
+
+- Fix useColorModeValue hooks in CategoryPageComponent called inside JSX
+- Add 'metalcardbot' category to stories-client.ts type unions
+- Add new story "The Great Garden Rescue" featuring Shadow X and Dexter
+- Story scheduled for Feb 3, 2026 afternoon (Jakarta time)
+
+---
+
 ## 2026-02-02 22:11:11
 
 feat: add Metal Cardbot category with stunning UI revamp

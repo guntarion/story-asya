@@ -40,11 +40,15 @@ export default function CategoryPageComponent({
   stories,
   unlockedStories
 }: CategoryPageComponentProps) {
+  // All useColorModeValue hooks at the top level
   const cardBg = useColorModeValue(
     'linear-gradient(135deg, rgba(255,255,255,0.9) 0%, rgba(253,244,255,0.95) 100%)',
     'linear-gradient(135deg, rgba(26,26,46,0.9) 0%, rgba(22,33,62,0.95) 100%)'
   )
   const borderColor = useColorModeValue('brand.200', 'brand.800')
+  const sectionHeadingColor = useColorModeValue('gray.700', 'gray.200')
+  const emptyHeadingColor = useColorModeValue('gray.600', 'gray.300')
+  const emptyTextColor = useColorModeValue('gray.500', 'gray.400')
 
   return (
     <Box minH="100vh">
@@ -158,7 +162,7 @@ export default function CategoryPageComponent({
               <Heading
                 size="lg"
                 textAlign="center"
-                color={useColorModeValue('gray.700', 'gray.200')}
+                color={sectionHeadingColor}
               >
                 Stories
               </Heading>
@@ -193,10 +197,10 @@ export default function CategoryPageComponent({
                   >
                     <BookStackIcon w={10} h={10} color="brand.500" />
                   </Box>
-                  <Heading size="md" color={useColorModeValue('gray.600', 'gray.300')}>
+                  <Heading size="md" color={emptyHeadingColor}>
                     No Stories Yet
                   </Heading>
-                  <Text color={useColorModeValue('gray.500', 'gray.400')}>
+                  <Text color={emptyTextColor}>
                     Stories for this category are coming soon! Check back later.
                   </Text>
                 </VStack>

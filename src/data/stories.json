@@ -224,6 +224,15 @@
       "filename": "cardbot-001-the-rhythm-of-justice.md",
       "unlockDate": "2025-01-01T00:00:00.000Z",
       "description": "Blue Cop and Mega Trucker discover that sometimes the best solution isn't a fight—it's a dance!"
+    },
+    {
+      "id": "cardbot-002",
+      "title": "The Great Garden Rescue",
+      "slug": "the-great-garden-rescue",
+      "category": "metalcardbot",
+      "filename": "cardbot-002-the-great-garden-rescue.md",
+      "unlockDate": "2026-02-03T07:00:00.000Z",
+      "description": "Shadow X and Dexter team up to protect an ancient garden from Buffalo Crush, learning that patience and nurturing create the strongest bonds!"
     }
   ]
 }
