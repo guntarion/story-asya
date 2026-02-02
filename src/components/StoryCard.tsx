@@ -40,6 +40,7 @@ interface StoryCardProps {
 }
 
 export default function StoryCard({ story }: StoryCardProps) {
+  // All useColorModeValue hooks at the top level
   const cardBg = useColorModeValue(
     'linear-gradient(135deg, rgba(255,255,255,0.95) 0%, rgba(253,244,255,0.98) 100%)',
     'linear-gradient(135deg, rgba(26,26,46,0.95) 0%, rgba(22,33,62,0.98) 100%)'
@@ -52,6 +53,12 @@ export default function StoryCard({ story }: StoryCardProps) {
   const lockedBorderColor = useColorModeValue('gray.300', 'gray.600')
   const textColor = useColorModeValue('gray.600', 'gray.300')
   const lockedTextColor = useColorModeValue('gray.400', 'gray.500')
+  const titleColor = useColorModeValue('brand.700', 'brand.300')
+  const titleHoverColor = useColorModeValue('brand.600', 'brand.200')
+  const lockBoxBg = useColorModeValue('gray.200', 'gray.700')
+  const lockedBadgeBg = useColorModeValue('gray.200', 'gray.700')
+  const lockedBadgeColor = useColorModeValue('gray.500', 'gray.400')
+  const availableBadgeColor = useColorModeValue('green.600', 'green.300')
 
   const unlockDate = new Date(story.unlockDate)
   const formattedDate = unlockDate.toLocaleDateString('en-US', {
@@ -59,12 +66,6 @@ export default function StoryCard({ story }: StoryCardProps) {
     month: 'short',
     day: 'numeric',
     timeZone: 'Asia/Jakarta'
-  })
-  const formattedTime = unlockDate.toLocaleTimeString('en-US', {
-    hour: '2-digit',
-    minute: '2-digit',
-    timeZone: 'Asia/Jakarta',
-    hour12: true
   })
 
   const CardContent = (
@@ -127,12 +128,12 @@ export default function StoryCard({ story }: StoryCardProps) {
         <Flex justify="space-between" align="start" gap={3}>
           <Heading
             size="md"
-            color={story.isLocked ? lockedTextColor : useColorModeValue('brand.700', 'brand.300')}
+            color={story.isLocked ? lockedTextColor : titleColor}
             noOfLines={2}
             fontWeight="bold"
             transition="all 0.3s ease"
             _groupHover={!story.isLocked ? {
-              color: useColorModeValue('brand.600', 'brand.200'),
+              color: titleHoverColor,
             } : {}}
           >
             {story.title}
@@ -141,7 +142,7 @@ export default function StoryCard({ story }: StoryCardProps) {
             <Box
               p={2}
               borderRadius="lg"
-              bg={useColorModeValue('gray.200', 'gray.700')}
+              bg={lockBoxBg}
             >
               <Icon as={LockIcon} color={lockedTextColor} w={4} h={4} />
             </Box>
@@ -169,13 +170,10 @@ export default function StoryCard({ story }: StoryCardProps) {
             fontSize="xs"
             fontWeight="bold"
             bg={story.isLocked
-              ? useColorModeValue('gray.200', 'gray.700')
+              ? lockedBadgeBg
               : 'linear-gradient(135deg, rgba(16, 185, 129, 0.2) 0%, rgba(6, 182, 212, 0.2) 100%)'
             }
-            color={story.isLocked
-              ? useColorModeValue('gray.500', 'gray.400')
-              : useColorModeValue('green.600', 'green.300')
-            }
+            color={story.isLocked ? lockedBadgeColor : availableBadgeColor}
           >
             {story.isLocked ? 'Locked' : 'Available'}
           </Badge>

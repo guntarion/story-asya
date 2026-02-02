@@ -59,6 +59,7 @@ export default function StoryReader({ story, content }: StoryReaderProps) {
   const [fontSize, setFontSize] = useState(17)
   const { isOpen, onOpen, onClose } = useDisclosure()
 
+  // All useColorModeValue hooks at the top level
   const cardBg = useColorModeValue(
     'linear-gradient(135deg, rgba(255,255,255,0.95) 0%, rgba(253,244,255,0.98) 100%)',
     'linear-gradient(135deg, rgba(26,26,46,0.95) 0%, rgba(22,33,62,0.98) 100%)'
@@ -66,6 +67,18 @@ export default function StoryReader({ story, content }: StoryReaderProps) {
   const borderColor = useColorModeValue('brand.200', 'brand.800')
   const textColor = useColorModeValue('gray.800', 'gray.100')
   const blockquoteBg = useColorModeValue('brand.50', 'whiteAlpha.100')
+  const h2Color = useColorModeValue('brand.700', 'brand.300')
+  const h2BorderColor = useColorModeValue('brand.200', 'brand.700')
+  const h3Color = useColorModeValue('brand.600', 'brand.400')
+  const strongColor = useColorModeValue('brand.700', 'brand.300')
+  const descriptionColor = useColorModeValue('gray.600', 'gray.400')
+  const lockedHeadingColor = useColorModeValue('gray.600', 'gray.300')
+  const lockedTextColor = useColorModeValue('gray.500', 'gray.400')
+  const drawerBg = useColorModeValue('white', 'gray.900')
+  const fontSizeLabelColor = useColorModeValue('gray.700', 'gray.200')
+  const previewBg = useColorModeValue('gray.50', 'gray.800')
+  const previewBorderColor = useColorModeValue('gray.200', 'gray.700')
+  const sliderTrackBg = useColorModeValue('brand.100', 'brand.900')
 
   const MarkdownComponents = {
     p: ({ children }: any) => (
@@ -96,12 +109,12 @@ export default function StoryReader({ story, content }: StoryReaderProps) {
         as="h2"
         fontSize={`${Math.round(fontSize * 1.5)}px`}
         fontWeight="bold"
-        color={useColorModeValue('brand.700', 'brand.300')}
+        color={h2Color}
         mb={5}
         mt={8}
         pb={2}
         borderBottom="2px solid"
-        borderColor={useColorModeValue('brand.200', 'brand.700')}
+        borderColor={h2BorderColor}
       >
         {children}
       </Heading>
@@ -111,7 +124,7 @@ export default function StoryReader({ story, content }: StoryReaderProps) {
         as="h3"
         fontSize={`${Math.round(fontSize * 1.25)}px`}
         fontWeight="semibold"
-        color={useColorModeValue('brand.600', 'brand.400')}
+        color={h3Color}
         mb={4}
         mt={6}
       >
@@ -122,7 +135,7 @@ export default function StoryReader({ story, content }: StoryReaderProps) {
       <Text
         as="strong"
         fontWeight="bold"
-        color={useColorModeValue('brand.700', 'brand.300')}
+        color={strongColor}
       >
         {children}
       </Text>
@@ -288,7 +301,7 @@ export default function StoryReader({ story, content }: StoryReaderProps) {
               </Heading>
               {story.description && (
                 <Text
-                  color={useColorModeValue('gray.600', 'gray.400')}
+                  color={descriptionColor}
                   fontStyle="italic"
                   maxW="lg"
                   lineHeight="1.7"
@@ -342,10 +355,10 @@ export default function StoryReader({ story, content }: StoryReaderProps) {
                     />
                   </Icon>
                 </Box>
-                <Heading size="lg" color={useColorModeValue('gray.600', 'gray.300')}>
+                <Heading size="lg" color={lockedHeadingColor}>
                   Story Locked
                 </Heading>
-                <Text color={useColorModeValue('gray.500', 'gray.400')} maxW="md">
+                <Text color={lockedTextColor} maxW="md">
                   This magical story will be available on{' '}
                   <Text as="span" fontWeight="bold" color="brand.500">
                     {new Date(story.unlockDate).toLocaleDateString('en-US', {
@@ -368,7 +381,7 @@ export default function StoryReader({ story, content }: StoryReaderProps) {
         <Drawer isOpen={isOpen} placement="right" onClose={onClose} size="sm">
           <DrawerOverlay bg="blackAlpha.600" backdropFilter="blur(4px)" />
           <DrawerContent
-            bg={useColorModeValue('white', 'gray.900')}
+            bg={drawerBg}
             borderLeftRadius="2xl"
           >
             <DrawerCloseButton size="lg" />
@@ -384,7 +397,7 @@ export default function StoryReader({ story, content }: StoryReaderProps) {
             <DrawerBody py={8}>
               <VStack spacing={8} align="stretch">
                 <Box>
-                  <Text mb={4} fontWeight="bold" color={useColorModeValue('gray.700', 'gray.200')}>
+                  <Text mb={4} fontWeight="bold" color={fontSizeLabelColor}>
                     Font Size
                   </Text>
                   <VStack spacing={6}>
@@ -396,7 +409,7 @@ export default function StoryReader({ story, content }: StoryReaderProps) {
                       max={24}
                       step={1}
                     >
-                      <SliderTrack bg={useColorModeValue('brand.100', 'brand.900')} h={2} borderRadius="full">
+                      <SliderTrack bg={sliderTrackBg} h={2} borderRadius="full">
                         <SliderFilledTrack bg="linear-gradient(90deg, #d946ef, #ec4899)" />
                       </SliderTrack>
                       <SliderThumb
@@ -420,10 +433,10 @@ export default function StoryReader({ story, content }: StoryReaderProps) {
 
                 <Box
                   p={6}
-                  bg={useColorModeValue('gray.50', 'gray.800')}
+                  bg={previewBg}
                   borderRadius="xl"
                   border="1px solid"
-                  borderColor={useColorModeValue('gray.200', 'gray.700')}
+                  borderColor={previewBorderColor}
                 >
                   <Text
                     fontSize={`${fontSize}px`}
@@ -435,7 +448,7 @@ export default function StoryReader({ story, content }: StoryReaderProps) {
                 </Box>
 
                 <VStack spacing={3}>
-                  <Text fontWeight="bold" color={useColorModeValue('gray.700', 'gray.200')}>
+                  <Text fontWeight="bold" color={fontSizeLabelColor}>
                     Quick Presets
                   </Text>
                   <HStack spacing={3} w="full">
