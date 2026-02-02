@@ -1,3 +1,13 @@
+## 2026-02-03 04:11:40
+
+security: update Next.js to 15.4.10 to fix CVE-2025-55182 (React2Shell)
+
+- Update Next.js from 15.4.1 to 15.4.10 (patched version)
+- CVE-2025-55182 is a critical RCE vulnerability in React Server Components
+- Add security documentation for future reference
+
+---
+
 ## 2026-02-03 04:04:50
 
 fix: resolve React Hooks errors and add second Metal Cardbot story
