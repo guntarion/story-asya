@@ -214,5 +214,16 @@
       "unlockDate": "2025-09-14T00:00:00.000Z",
       "description": "Three friends with very different baking styles learn that the secret ingredient to success is teamwork, compromise, and listening to each other!"
     }
+  ],
+  "metalcardbot": [
+    {
+      "id": "cardbot-001",
+      "title": "The Rhythm of Justice",
+      "slug": "the-rhythm-of-justice",
+      "category": "metalcardbot",
+      "filename": "cardbot-001-the-rhythm-of-justice.md",
+      "unlockDate": "2025-01-01T00:00:00.000Z",
+      "description": "Blue Cop and Mega Trucker discover that sometimes the best solution isn't a fight—it's a dance!"
+    }
   ]
 }

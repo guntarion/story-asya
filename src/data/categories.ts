@@ -28,5 +28,12 @@ export const categories: Category[] = [
     description: 'Original creative stories filled with friendship, adventure, and magical mishaps!',
     headerImage: '/assets/images/starry-image.png',
     storiesPath: 'stories/starrystories'
+  },
+  {
+    id: 'metalcardbot',
+    name: 'Metal Cardbot',
+    description: 'Epic adventures with the mechanical lifeforms from Planet Machina who transform into awesome vehicles!',
+    headerImage: '/assets/images/metal-cardbot.jpg',
+    storiesPath: 'stories/metalcardbot'
   }
 ]

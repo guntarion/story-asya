@@ -2,7 +2,7 @@ export interface Story {
   id: string
   title: string
   slug: string
-  category: 'cookierun' | 'dandysworld' | 'fnaf' | 'starrystories'
+  category: 'cookierun' | 'dandysworld' | 'fnaf' | 'starrystories' | 'metalcardbot'
   filename: string
   unlockDate: string // ISO date string
   isLocked: boolean
@@ -11,7 +11,7 @@ export interface Story {
 }
 
 export interface Category {
-  id: 'cookierun' | 'dandysworld' | 'fnaf' | 'starrystories'
+  id: 'cookierun' | 'dandysworld' | 'fnaf' | 'starrystories' | 'metalcardbot'
   name: string
   description: string
   headerImage: string
