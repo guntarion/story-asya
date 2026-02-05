@@ -233,6 +233,15 @@
       "filename": "cardbot-002-the-great-garden-rescue.md",
       "unlockDate": "2026-02-03T07:00:00.000Z",
       "description": "Shadow X and Dexter team up to protect an ancient garden from Buffalo Crush, learning that patience and nurturing create the strongest bonds!"
+    },
+    {
+      "id": "cardbot-003",
+      "title": "Tachy's Speed Doodle Spree",
+      "slug": "tachys-speed-doodle-spree",
+      "category": "metalcardbot",
+      "filename": "cardbot-003-tachys-speed-doodle-spree.md",
+      "unlockDate": "2025-01-01T00:00:00.000Z",
+      "description": "Tachy's graffiti habit drives Blue Cop crazy, but Mega Trucker helps them discover that sometimes the wildest artists just need the right canvas!"
     }
   ]
 }
