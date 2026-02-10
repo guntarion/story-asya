@@ -1,3 +1,16 @@
+## 2026-02-10 21:58:09
+
+feat: add Metal Cardbot story - The Great Speed Showdown
+
+Add new action-packed Metal Cardbot story featuring Red Blitz vs Flash Vector in an epic race that turns chaotic. Tachy and Cielo join the battle, taking sides, until Gigantrex teaches them about healthy competition vs destructive rivalry.
+
+- Create cardbot-004-red-blitz-vs-flash-vector-race-chaos.md (220+ lines)
+- Add story metadata to stories.json with immediate unlock date
+- Update Metal Cardbot documentation
+- Story teaches lesson about productive competition and teamwork
+
+---
+
 ## 2026-02-03 04:11:40
 
 security: update Next.js to 15.4.10 to fix CVE-2025-55182 (React2Shell)

@@ -377,3 +377,15 @@ By grounding its alien characters in human struggles—Jun’s growth, Edo’s f
 | **Dexter**           | Shin Yong-woo   |                           |
 | **Cielo**            | Jo Hyun-jung    | Male character, female VA |
 | **Soleil**           | Bohee Lee       |                           |
+
+
+
+Flash Vector
+"I'm not only stealthy, I'm also fast."
+Flash Vector (플래시벡터, Peullaesi Begteo) is a Hidden Cardbot in Metal Cardbot S. He is a stealth operative Cardbot and and a duo with his younger brother Spark Bit currently seeking the last Star Guardian Blue Cop. His desire for following the one with Deus Machina's treasure lead to both him and Spark Bit going berserk from Flame Nova implanting Cosmic Stones in their bodies. Flash Vector was saved by the combined might of Jun and Peruru's Cardbots, leading to Jun sealing Flash Vector in the Metal Breath. After the final battle for the Speranza, both brothers joined Peruru's Cardbots to atone for their misgivings.
+On the Planet Machina, Flash Vector is a supersonic speed Cardbot specialized in stealth operations. He crossed paths with the young Spark Bit and fought him as the sun set, each combatant unyielding. After they both dealt a final blow to one another, Spark Bit fell first followed by Flash Vector, accepting his loss and chose to acknowledge Flash Vector as his elder brother, which the latter accepted. The brothers joined the other Cardbots on the exodus of Machina as the planet was destroyed, later finding their way to the planet Earth.
+
+Appearance
+Flash Vector is a navy-blue Cardbot with light-blue eyes, triangular armor, white and red sections throughout his body, a front/rear wing on the chest that contains a checker flag and the "F1" logo, and a helmet with a light-blue visor, front wing on the top, and a two-cylinder exhaust port with a Mercedes-Benz-style logo on each side of the head. The two wheels on his back can convert into thrusters to assist in aerial maneuver. His vehicle form is a Formula One car with a closed cockpit.
+
+After being corrupted with a Cosmic Stone before being saved, Flash Vector gains glowing magenta circuit lines throughout his body, his pupils disappear, and the Cosmic Stone inserted to his right shoulder grew and spreads down to his chest with glowing indigo circuit lines.

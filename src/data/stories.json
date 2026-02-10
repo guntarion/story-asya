@@ -242,6 +242,15 @@
       "filename": "cardbot-003-tachys-speed-doodle-spree.md",
       "unlockDate": "2025-01-01T00:00:00.000Z",
       "description": "Tachy's graffiti habit drives Blue Cop crazy, but Mega Trucker helps them discover that sometimes the wildest artists just need the right canvas!"
+    },
+    {
+      "id": "cardbot-004",
+      "title": "The Great Speed Showdown",
+      "slug": "the-great-speed-showdown",
+      "category": "metalcardbot",
+      "filename": "cardbot-004-red-blitz-vs-flash-vector-race-chaos.md",
+      "unlockDate": "2025-01-01T00:00:00.000Z",
+      "description": "Red Blitz and Flash Vector's fierce race turns into destructive chaos until Gigantrex teaches them that true competition builds up, not tears down!"
     }
   ]
 }
