@@ -2,7 +2,7 @@
 
 ## 1. Introduction: The Evolution of Korean Mecha Animation
 
-The *Metal Cardbot* (Korean: 메탈카드봇) franchise represents a pivotal evolution in the South Korean animated mecha genre. Produced by SAMG Entertainment in collaboration with Navy Co., Ltd., the series distinguishes itself through a unique synthesis of collectible card game (CCG) mechanics, traditional vehicular transformation tropes, and a surprisingly robust "ancient astronaut" narrative framework. Since its debut in March 2023, the franchise has expanded through three distinct phases—Season 1, *Metal Cardbot S*, and *Metal Cardbot W*—each introducing complex layers to its character roster and lore.
+The _Metal Cardbot_ (Korean: 메탈카드봇) franchise represents a pivotal evolution in the South Korean animated mecha genre. Produced by SAMG Entertainment in collaboration with Navy Co., Ltd., the series distinguishes itself through a unique synthesis of collectible card game (CCG) mechanics, traditional vehicular transformation tropes, and a surprisingly robust "ancient astronaut" narrative framework. Since its debut in March 2023, the franchise has expanded through three distinct phases—Season 1, _Metal Cardbot S_, and _Metal Cardbot W_—each introducing complex layers to its character roster and lore.
 
 The narrative premise is rooted in the destruction of the planet Machina, a mechanical world governed by the "Deus Machina" supercomputer. The refugees from this cataclysm, known as Metal Cardbots, fled to Earth, adopting vehicular forms to hide among humanity. The series departs from the standard "robots in disguise" formula by introducing the "Metal Breath" and "Metal Card" systems, which externalize the robots' combat capabilities into physical artifacts that must be managed by human partners.
 
@@ -10,15 +10,15 @@ This report provides an exhaustive analysis of the franchise’s character ecosy
 
 ## 2. The Human Protagonists and Socio-Political Landscape
 
-The human characters in *Metal Cardbot* are not merely passive observers or damsels; they are active combatants, strategists, and moral anchors. The interplay between the human cast and the alien refugees drives the series' central themes of coexistence, responsibility, and the ethical use of power.
+The human characters in _Metal Cardbot_ are not merely passive observers or damsels; they are active combatants, strategists, and moral anchors. The interplay between the human cast and the alien refugees drives the series' central themes of coexistence, responsibility, and the ethical use of power.
 
 ### 2.1 Jun Grant: The Archetypal Hero and Strategic Anchor
 
 **Jun Grant** (Korean: 준 그랜트) serves as the primary protagonist and the narrative lens through which the audience explores the Cardbot world.
 
-- **Character Archetype and Evolution:** Jun embodies the classic *shōnen* hero archetype: an energetic, inquisitive elementary school student with a penchant for BMX riding and a strong sense of justice. However, his character arc is defined by his maturation from an impulsive thrill-seeker to a responsible guardian. Initially, Jun treats the Metal Breath as a toy or a source of excitement, but as threats escalate from local nuisances to planetary dangers (Heavy Iron, Flame Nova), Jun evolves into a tactician capable of commanding a diverse squad of alien entities.
+- **Character Archetype and Evolution:** Jun embodies the classic _shōnen_ hero archetype: an energetic, inquisitive elementary school student with a penchant for BMX riding and a strong sense of justice. However, his character arc is defined by his maturation from an impulsive thrill-seeker to a responsible guardian. Initially, Jun treats the Metal Breath as a toy or a source of excitement, but as threats escalate from local nuisances to planetary dangers (Heavy Iron, Flame Nova), Jun evolves into a tactician capable of commanding a diverse squad of alien entities.
 - **The Metal Breath Interface:** Jun is the primary wielder of the **Metal Breath**, a wrist-mounted device that serves as a dimensional storage and command unit. Unlike traditional mecha pilots who sit inside a cockpit, Jun operates as a field commander. He must physically manage the "Metal Cards"—storage media that contain the Cardbots' weapons and, when sealed, the robots themselves. This dynamic requires Jun to make real-time strategic decisions about which Cardbot to deploy and which weapon card to slot, effectively gamifying the combat narrative.
-- **Visual Progression:** Jun’s design reflects his growth. In Season 1, he is depicted in a red hoodie and blue jacket, emphasizing a youthful, civilian aesthetic. By *Metal Cardbot S* (Season 2), his attire shifts to a black and red t-shirt under a cropped blue jacket with distinct striping, symbolizing his transition to a more seasoned veteran status.
+- **Visual Progression:** Jun’s design reflects his growth. In Season 1, he is depicted in a red hoodie and blue jacket, emphasizing a youthful, civilian aesthetic. By _Metal Cardbot S_ (Season 2), his attire shifts to a black and red t-shirt under a cropped blue jacket with distinct striping, symbolizing his transition to a more seasoned veteran status.
 - **Voice Actor:** The character is brought to life by **Jang Ye-na** in the Korean original, capturing the oscillation between childish excitement and serious resolve.
 
 ### 2.2 The Mowtown Support Network
@@ -44,8 +44,8 @@ Anna occupies a critical socio-political position within the narrative as the da
 
 Edo serves as the bridge between human engineering and alien biology.
 
-- **Edo Motors:** He operates a garage that becomes the *de facto* base of operations for the Cardbots. His arc is one of the most grounded; initially hostile toward the Cardbots due to the property damage they cause, he eventually accepts them, becoming their doctor and mechanic.
-- **The Burden of Logistics:** A recurring subplot involves Edo’s financial struggles caused by the Cardbots’ immense energy consumption. Unlike other shows that hand-wave the fuel requirements of giant robots, *Metal Cardbot* explicitly addresses the economic cost of housing alien refugees, with Edo funding their electricity and gasoline needs to the point of near-bankruptcy. This adds a layer of realism to the show's economy.
+- **Edo Motors:** He operates a garage that becomes the _de facto_ base of operations for the Cardbots. His arc is one of the most grounded; initially hostile toward the Cardbots due to the property damage they cause, he eventually accepts them, becoming their doctor and mechanic.
+- **The Burden of Logistics:** A recurring subplot involves Edo’s financial struggles caused by the Cardbots’ immense energy consumption. Unlike other shows that hand-wave the fuel requirements of giant robots, _Metal Cardbot_ explicitly addresses the economic cost of housing alien refugees, with Edo funding their electricity and gasoline needs to the point of near-bankruptcy. This adds a layer of realism to the show's economy.
 - **Voice Actor:** Lee Hyeon.
 
 #### Crest (크래스트): The Aristocratic Rival
@@ -61,7 +61,7 @@ Introduced mid-Season 1, Crest acts as a foil to Jun.
 - **Peruru (Season 2):** A mysterious girl with deep connections to the ancient history of Earth and Machina. She wields a unique Metal Breath and possesses a Machinasium spear capable of healing the mental corruption of Cardbots like Gigantrex. Her presence confirms that Cardbots have been on Earth for millennia, interacting with human civilizations long before modern times.
 - **Soleil (Season 3):** Crest’s twin sister and a darker reflection of the protagonist. Soleil is mission-oriented to a fault, seeking to collect Wild Cardbots to create a vaccine for the Beast Virus. Unlike Jun, who befriends the bots, Soleil uses her Metal Breath to force obedience, highlighting the potential for the technology to be used for domination rather than partnership. She commands powerful units like Blaion and Phantom Hornet.
 
-------
+---
 
 ## 3. The Metal Cardbot Species: Biology, Culture, and Hierarchy
 
@@ -77,8 +77,8 @@ The Metal Cardbots are not mere automatons; they are "mechanical lifeforms" with
 
 A critical evolution in the franchise's lore concerns the nature of their vehicle modes.
 
-- **Season 1 Logic:** Initially, the series adopted the *Transformers* logic that vehicle modes were "disguises" scanned upon arrival on Earth to blend in.
-- **Retcon/Evolution:** By Season 2 and 3, the lore shifted to establish that Cardbots *naturally* possess vehicle modes based on human-style machinery, even those who have never been to Earth. This suggests a cosmic convergent evolution or a predestined link between the planet Machina and Earth's technological development.
+- **Season 1 Logic:** Initially, the series adopted the _Transformers_ logic that vehicle modes were "disguises" scanned upon arrival on Earth to blend in.
+- **Retcon/Evolution:** By Season 2 and 3, the lore shifted to establish that Cardbots _naturally_ possess vehicle modes based on human-style machinery, even those who have never been to Earth. This suggests a cosmic convergent evolution or a predestined link between the planet Machina and Earth's technological development.
 
 ### 3.3 The Metal Card System
 
@@ -87,7 +87,7 @@ The defining gimmick of the species is the **Metal Card**.
 - **Sealing:** When defeated or willing, a Cardbot can be converted into energy and stored within a small metal card. This solves the logistical issue of hiding giant robots.
 - **Weaponization:** When a Cardbot is active, their specific Metal Card can be inserted into the Metal Breath to summon a signature weapon (e.g., a shield, a drill, a gun). This externalization of weaponry means a Cardbot is significantly weaker without their human partner to "unlock" their arsenal.
 
-------
+---
 
 ## 4. Season 1 Roster: The Refugees of Mowtown
 
@@ -174,7 +174,7 @@ Black Hook is a space pirate who leads a trio of criminals.
 - **Ideology:** Heavy Iron believes that might makes right. He seeks to terraform Earth into a new Machina, disregarding human life.
 - **Power Level:** He is a "Road Warrior" class bot, significantly larger and stronger than the standard cast. He wields the **Iron Sword** and **Iron Armor**, requiring the combined efforts of all protagonists to defeat. In Season 3, he is resurrected as **Heavy Iron W**, gaining a dragon motif.
 
-------
+---
 
 ## 5. Season 2 (Metal Cardbot S): The Speranza Crew and Ancient History
 
@@ -182,7 +182,7 @@ Season 2 expands the timeline, revealing that Cardbots visited Earth 4,000 years
 
 ### 5.1 The Speranza Crew
 
-This elite team was tasked with piloting the colony ship *Speranza* to find a new home for the Machina race. They crashed on Earth millennia ago and were sealed in stone tablets by their human ally, **Mukara**, in the Porcaca Ruins.
+This elite team was tasked with piloting the colony ship _Speranza_ to find a new home for the Machina race. They crashed on Earth millennia ago and were sealed in stone tablets by their human ally, **Mukara**, in the Porcaca Ruins.
 
 #### Gigantrex (기간트렉스): The Fallen Captain
 
@@ -220,7 +220,7 @@ This elite team was tasked with piloting the colony ship *Speranza* to find a ne
 - **Gestalt Nature:** Uniquely, Flame Nova is a **Combiner (Gestalt)** by default. His body is composed of four separate vehicle components (Fire Engine, Excavator, Helicopter, Dump Truck), making him physically overwhelming.
 - **Goal:** He seeks to enslave the Cardbot race and rule over Earth. Unlike Heavy Iron, who had a twisted sense of honor, Flame Nova is manipulative and cruel.
 
-------
+---
 
 ## 6. Season 3 (Metal Cardbot W): The Wild Cardbots and Techno-Organic Fusion
 
@@ -255,14 +255,14 @@ The protagonist's evolution into a Wild Cardbot.
 The first hero combiner of the franchise.
 
 - **Components:** Blue Cop W (Upper Body) + Blaion (Lower Body).
-- **Design:** Resembles *Digimon's* Omegamon, wielding a cannon arm (Howl Gauntlet) and a sword arm (Roar Gauntlet). This form symbolizes the ultimate mastery over the Beast Virus.
+- **Design:** Resembles _Digimon's_ Omegamon, wielding a cannon arm (Howl Gauntlet) and a sword arm (Roar Gauntlet). This form symbolizes the ultimate mastery over the Beast Virus.
 
 #### Tigun (타이건)
 
 - **Vehicle Mode:** **Tank**.
 - **Motif:** **Tiger** (Green/White color scheme).
 - **Name Origin:** Portmanteau of "Tiger" and "Gun."
-- **Arsenal:** Wields **Growl Cannonaxes** (handheld axes with tiger faces). The tank turret can transform into chest cannons, referencing the *Transformers* character Warpath.
+- **Arsenal:** Wields **Growl Cannonaxes** (handheld axes with tiger faces). The tank turret can transform into chest cannons, referencing the _Transformers_ character Warpath.
 
 #### Tachy (타키)
 
@@ -297,11 +297,11 @@ The first hero combiner of the franchise.
 - **Motif:** **Rhinoceros**.
 - **Profile:** Known as "Earth's Wrath." A massive physical powerhouse who uses his bulk to crush opponents.
 
-------
+---
 
 ## 7. Commercial and Industrial Design Analysis
 
-The *Metal Cardbot* franchise is intrinsically linked to its toyline, with character designs dictated by engineering constraints and play patterns.
+The _Metal Cardbot_ franchise is intrinsically linked to its toyline, with character designs dictated by engineering constraints and play patterns.
 
 ### 7.1 Scale and Class System
 
@@ -313,7 +313,7 @@ The toyline establishes a clear hierarchy of size, mirrored in the show:
 
 ### 7.2 The "Nature" Retcon and Toy Engineering
 
-The shift in lore—from "disguise" to "natural vehicle mode"—aligns with the toy engineering reality. Unlike *Transformers*, where "kibble" (vehicle parts visible in robot mode) is often hidden, *Metal Cardbot* designs embrace the vehicle parts as anatomical features (e.g., Tachy's car hood forming her back, Dexter's shovel becoming a tail). This design philosophy allows for more durable toys with intuitive transformations, catering to the younger demographic (ages 4-8) while retaining detail for collectors.
+The shift in lore—from "disguise" to "natural vehicle mode"—aligns with the toy engineering reality. Unlike _Transformers_, where "kibble" (vehicle parts visible in robot mode) is often hidden, _Metal Cardbot_ designs embrace the vehicle parts as anatomical features (e.g., Tachy's car hood forming her back, Dexter's shovel becoming a tail). This design philosophy allows for more durable toys with intuitive transformations, catering to the younger demographic (ages 4-8) while retaining detail for collectors.
 
 ### 7.3 Discrepancies
 
@@ -322,15 +322,15 @@ Notable discrepancies exist between the animation models and the physical produc
 - **Dexter's Drill:** The show depicts Dexter wielding his drill on the right arm, while the toy mold forces it onto the left.
 - **Cielo's Eyes:** The animation model features green eyes, while the toy features light-blue eyes. These errors highlight the rapid production cycle typical of South Korean animation pipelines, where toy tooling and animation asset creation often happen concurrently but separately.
 
-------
+---
 
 ## 8. Conclusion
 
-The *Metal Cardbot* franchise has successfully carved a niche in the competitive mecha landscape by blending the tangible satisfaction of vehicle transformation with the strategic depth of card gaming. Its character roster has evolved from a simple "cops and robbers" dynamic in Season 1 to a rich, historical epic in Season 2, and finally into a mytho-poetic techno-organic struggle in Season 3.
+The _Metal Cardbot_ franchise has successfully carved a niche in the competitive mecha landscape by blending the tangible satisfaction of vehicle transformation with the strategic depth of card gaming. Its character roster has evolved from a simple "cops and robbers" dynamic in Season 1 to a rich, historical epic in Season 2, and finally into a mytho-poetic techno-organic struggle in Season 3.
 
 By grounding its alien characters in human struggles—Jun’s growth, Edo’s financial woes, Anna’s ethical dilemmas—SAMG Entertainment has created a universe where giant robots are not just weapons, but refugees, friends, and complex living beings. The integration of the "Wild" motif in the latest season suggests a continued trajectory toward exploring the boundary between the mechanical and the biological, ensuring the franchise remains relevant and evolving.
 
-------
+---
 
 ## Appendix: Data Tables
 
@@ -378,8 +378,6 @@ By grounding its alien characters in human struggles—Jun’s growth, Edo’s f
 | **Cielo**            | Jo Hyun-jung    | Male character, female VA |
 | **Soleil**           | Bohee Lee       |                           |
 
-
-
 Flash Vector
 "I'm not only stealthy, I'm also fast."
 Flash Vector (플래시벡터, Peullaesi Begteo) is a Hidden Cardbot in Metal Cardbot S. He is a stealth operative Cardbot and and a duo with his younger brother Spark Bit currently seeking the last Star Guardian Blue Cop. His desire for following the one with Deus Machina's treasure lead to both him and Spark Bit going berserk from Flame Nova implanting Cosmic Stones in their bodies. Flash Vector was saved by the combined might of Jun and Peruru's Cardbots, leading to Jun sealing Flash Vector in the Metal Breath. After the final battle for the Speranza, both brothers joined Peruru's Cardbots to atone for their misgivings.
@@ -389,3 +387,18 @@ Appearance
 Flash Vector is a navy-blue Cardbot with light-blue eyes, triangular armor, white and red sections throughout his body, a front/rear wing on the chest that contains a checker flag and the "F1" logo, and a helmet with a light-blue visor, front wing on the top, and a two-cylinder exhaust port with a Mercedes-Benz-style logo on each side of the head. The two wheels on his back can convert into thrusters to assist in aerial maneuver. His vehicle form is a Formula One car with a closed cockpit.
 
 After being corrupted with a Cosmic Stone before being saved, Flash Vector gains glowing magenta circuit lines throughout his body, his pupils disappear, and the Cosmic Stone inserted to his right shoulder grew and spreads down to his chest with glowing indigo circuit lines.
+
+Spark Bit
+
+Spark Bit (스파크비트, Seupakeu Biteu) is a Hidden Cardbot in Metal Cardbot S. He is a spotlight-seeking/boxing Cardbot with a superiority complex and a duo with his elder brother Flash Vector currently seeking the last Star Guardian Blue Cop. His desire to follow the strongest lead to both him and Flash Vector going berserk from Flame Nova implanting Cosmic Stones in their bodies. Spark Bit was saved by the combined might of Jun and Peruru's Cardbots, leading to Peruru sealing Spark Bit in Mukara's Metal Breath. After the final battle for the Speranza, both brothers joined Peruru's Cardbots to atone for their misgivings.
+
+Spark Bit is a yellow Cardbot with green eyes, dark-brown and lime-green sections throughout his body, a hair-style head, and features a fighter's appearance, including a headgear with sparks engraved on both sides, and wrapping-based sections on the forearms, feet, chest, and a belt. The hood on his back also acts as a thruster to assist in aerial maneuver. His vehicle form is a sports car modelled on the Lamborghini Centenario with a blown diffuser on the back.
+
+After being corrupted with a Cosmic Stone before being saved, Spark Bit gains glowing web-green circuit lines throughout his body, his pupils disappear, and the Cosmic Stone inserted to his left shoulder grew and spread down to his chest with glowing indigo circuit lines.
+
+Arsenal & Techniques
+Metal Card - Destroy Glove (메탈카드 - 데스트로이 글로브, Metal Kadeu - Deseuteuloi Geullobeu): A pair of glove-style jagged gauntlets Spark Bit wears on his arms.
+Sparking Force Knuckle (스파킹 포스 너클, Seupaking Poseu Neokeul): Spark Bit charges electric energy into the Destroy Gloves to rush at the enemy and deliver rapid punches followed by a heavy punch. According to Flash Vector, this is a technique that unleashes 600 punches per second, and the punches are so fast that they leave afterimages.
+Sparking Hammer (스파킹 해머, Seupaking Haemeo): Spark Bit charges electric energy into the Destroy Gloves and brings both gauntlets down in a hard strike against the opponent.
+Gravity Punch (그래비티 펀치, Geulaebiti Peonchi): An unknown technique.
+Spark Baton (스파크바톤, Seupakeu Baton): Three rods connected to form a three-sectioned staff, which can attach to the posterior as a tail when Spark Bit wields the Destroy Gloves. While present in the set, the Spark Baton was never utilize in the show.

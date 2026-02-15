@@ -251,6 +251,15 @@
       "filename": "cardbot-004-red-blitz-vs-flash-vector-race-chaos.md",
       "unlockDate": "2025-01-01T00:00:00.000Z",
       "description": "Red Blitz and Flash Vector's fierce race turns into destructive chaos until Gigantrex teaches them that true competition builds up, not tears down!"
+    },
+    {
+      "id": "cardbot-005",
+      "title": "Spark Bit's Knockout Kitchen",
+      "slug": "spark-bits-knockout-kitchen",
+      "category": "metalcardbot",
+      "filename": "cardbot-005-spark-bits-knockout-kitchen.md",
+      "unlockDate": "2025-01-01T00:00:00.000Z",
+      "description": "Spark Bit's superiority complex meets its match when he tries to conquer cooking with his Destroy Gloves — and discovers that the bravest thing a champion can do is ask for help!"
     }
   ]
 }
