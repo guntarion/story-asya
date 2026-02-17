@@ -1,3 +1,13 @@
+## 2026-02-17 16:46:40
+
+feat: add Metal Cardbot story - Chrome Thunder: The Band That Shook Mowtown
+
+- Add new story where the Speranza Crew forms a band called Chrome Thunder
+- Gigantrex as composer, Red Blitz as songwriter/vocalist, Cielo as editor/vocalist, Musclehyde as illustrator
+- Lesson about every team role being essential, even behind-the-scenes contributions
+
+---
+
 ## 2026-02-10 21:58:09
 
 feat: add Metal Cardbot story - The Great Speed Showdown

@@ -260,6 +260,15 @@
       "filename": "cardbot-005-spark-bits-knockout-kitchen.md",
       "unlockDate": "2025-01-01T00:00:00.000Z",
       "description": "Spark Bit's superiority complex meets its match when he tries to conquer cooking with his Destroy Gloves — and discovers that the bravest thing a champion can do is ask for help!"
+    },
+    {
+      "id": "cardbot-006",
+      "title": "Chrome Thunder: The Band That Shook Mowtown",
+      "slug": "chrome-thunder-the-band-that-shook-mowtown",
+      "category": "metalcardbot",
+      "filename": "cardbot-006-chrome-thunder-the-band-that-shook-mowtown.md",
+      "unlockDate": "2025-01-01T00:00:00.000Z",
+      "description": "The Speranza Crew forms a band called Chrome Thunder, but creative clashes nearly break them apart until they learn every role is essential!"
     }
   ]
 }
