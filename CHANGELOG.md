@@ -1,3 +1,18 @@
+## 2026-03-05 05:23:54
+
+feat: add two Ramadan-themed Metal Cardbot stories
+
+- cardbot-007: "Empty Tanks and Full Hearts" - Dexter and Cielo fast for
+  Ramadan, dramatically visit Mega Ambler claiming illness, get reprimanded
+  by Buster Gallon, and receive wisdom from Gigantrex on Machinasium biology
+  during fasting
+- cardbot-008: "Operation Takjil" - Tachy collects iftar food at high speed,
+  Sky Gallop transports to 7 remote zones, Cielo improvises off-plan and
+  disrupts the operation, Shadow X reprimands him, Gigantrex restores order
+  and Cielo completes the mission under coordination
+
+---
+
 ## 2026-02-17 16:46:40
 
 feat: add Metal Cardbot story - Chrome Thunder: The Band That Shook Mowtown

@@ -378,7 +378,8 @@ By grounding its alien characters in human struggles—Jun’s growth, Edo’s f
 | **Cielo**            | Jo Hyun-jung    | Male character, female VA |
 | **Soleil**           | Bohee Lee       |                           |
 
-Flash Vector
+## Flash Vector
+
 "I'm not only stealthy, I'm also fast."
 Flash Vector (플래시벡터, Peullaesi Begteo) is a Hidden Cardbot in Metal Cardbot S. He is a stealth operative Cardbot and and a duo with his younger brother Spark Bit currently seeking the last Star Guardian Blue Cop. His desire for following the one with Deus Machina's treasure lead to both him and Spark Bit going berserk from Flame Nova implanting Cosmic Stones in their bodies. Flash Vector was saved by the combined might of Jun and Peruru's Cardbots, leading to Jun sealing Flash Vector in the Metal Breath. After the final battle for the Speranza, both brothers joined Peruru's Cardbots to atone for their misgivings.
 On the Planet Machina, Flash Vector is a supersonic speed Cardbot specialized in stealth operations. He crossed paths with the young Spark Bit and fought him as the sun set, each combatant unyielding. After they both dealt a final blow to one another, Spark Bit fell first followed by Flash Vector, accepting his loss and chose to acknowledge Flash Vector as his elder brother, which the latter accepted. The brothers joined the other Cardbots on the exodus of Machina as the planet was destroyed, later finding their way to the planet Earth.
@@ -388,7 +389,7 @@ Flash Vector is a navy-blue Cardbot with light-blue eyes, triangular armor, whit
 
 After being corrupted with a Cosmic Stone before being saved, Flash Vector gains glowing magenta circuit lines throughout his body, his pupils disappear, and the Cosmic Stone inserted to his right shoulder grew and spreads down to his chest with glowing indigo circuit lines.
 
-Spark Bit
+## Spark Bit
 
 Spark Bit (스파크비트, Seupakeu Biteu) is a Hidden Cardbot in Metal Cardbot S. He is a spotlight-seeking/boxing Cardbot with a superiority complex and a duo with his elder brother Flash Vector currently seeking the last Star Guardian Blue Cop. His desire to follow the strongest lead to both him and Flash Vector going berserk from Flame Nova implanting Cosmic Stones in their bodies. Spark Bit was saved by the combined might of Jun and Peruru's Cardbots, leading to Peruru sealing Spark Bit in Mukara's Metal Breath. After the final battle for the Speranza, both brothers joined Peruru's Cardbots to atone for their misgivings.
 
@@ -402,3 +403,9 @@ Sparking Force Knuckle (스파킹 포스 너클, Seupaking Poseu Neokeul): Spark
 Sparking Hammer (스파킹 해머, Seupaking Haemeo): Spark Bit charges electric energy into the Destroy Gloves and brings both gauntlets down in a hard strike against the opponent.
 Gravity Punch (그래비티 펀치, Geulaebiti Peonchi): An unknown technique.
 Spark Baton (스파크바톤, Seupakeu Baton): Three rods connected to form a three-sectioned staff, which can attach to the posterior as a tail when Spark Bit wields the Destroy Gloves. While present in the set, the Spark Baton was never utilize in the show.
+
+## Sky Gallop
+
+Sky Gallop (스카이갤럽, Seukai Gaelleob) is a Hidden Cardbot in Metal Cardbot S. He is a chivalrous Cardbot that acts as a courier to transport other Hidden Cardbots across Earth. Despite his desire for freedom, he developed a bond with Peruru, which ultimately led to Sky Gallop risking his life to protect her from Flame Nova, and in turn, to be sealed by Peruru to save him from Flame Nova's wrath. After the final battle for the Speranza, Sky Gallop chose to join Peruru and assist in repairing the Speranza.
+
+Sky Gallop is a white Cardbot with an appearance similar to Fleta Z, black sections throughout his body, golden wing symbols throughout the upper torso, green eyes, a black knight-shaped dome on the head, and a golden wing crest with a wind symbol on each side of his head. His vehicle form is a transport aircraft based on a Boeing C-17 with a turbine in each wing. His height is equal to that of Heavy Iron, Gigantrex, and Blue Cop Trinity, and he is currently the largest Cardbot in vehicle mode. He sustained damage to his left shoulder from military jets and initially kept it as a reminder to not trust humans; he had it repaired after the battle for the Speranza.
