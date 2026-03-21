@@ -296,6 +296,15 @@
       "filename": "cardbot-009-phantom-hornet-vs-tigun-sky-siege.md",
       "unlockDate": "2025-01-01T00:00:00.000Z",
       "description": "The silent assassin of the sky clashes with the loudest tank alive — but when a Beast Virus threat hits Mowtown, these rivals discover their opposite strengths make them unstoppable together!"
+    },
+    {
+      "id": "cardbot-010",
+      "title": "Horror Night at Mowtown Cinema",
+      "slug": "horror-night-at-mowtown-cinema",
+      "category": "metalcardbot",
+      "filename": "cardbot-010-horror-night-at-mowtown-cinema.md",
+      "unlockDate": "2025-01-01T00:00:00.000Z",
+      "description": "Glober takes his old friends Rock Crush and Deep Bite to a horror movie — Rock Crush freezes the screen in panic, Deep Bite roasts the monster's swimming technique, and everyone learns that fear is better faced with friends!"
     }
   ]
 }

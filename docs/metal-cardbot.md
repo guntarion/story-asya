@@ -212,7 +212,58 @@ This elite team was tasked with piloting the colony ship _Speranza_ to find a ne
 - **Role:** Pilot of the Speranza.
 - **Arsenal:** Uses the **Iron Mace** and crane-based grappling techniques.
 
-### 5.2 Flame Nova (플레임노바): The Traitor
+### 5.2 New Cardbots of Season 2
+
+#### Glober (글로버)
+
+Glober (글로버, Geullobeo) is a new Metal Cardbot in Metal Cardbot S. He is an explorer who has taken a liking to Earth's nature and was against being sealed in the Metal Breath. Glober confronted Gigantrex to save Wella, but was severely injured in the process. He accepted Jun's request to be sealed in the Metal Breath to heal.
+
+History
+Glober has been friends with Rock Crush since the days of Planet Machina. After its destruction, they drifted through space in their individual escape pods until arriving on Earth after a long journey. However, during the landing process, Glober's escape pod crashed due to an accident, and they were separated. After marveling at Earth's nature, Glober became enchanted by the planet's environment and lives freely, traveling around the world to take in the beautiful scenery. However, he learned of Rock Crush's incident that led to him becoming a reclusive loner out of fear.
+
+Appearance
+Glober is a munsell-yellow Cardbot sporting an explorer design, a web-orange head with a safari hat sporting a built-in flashlight, a compass symbol on each side, green eyes, large shoulders, a munsell-yellow torso with a black base and web-orange plate on the center, a munsell-yellow/black back storing the folded doors, black upper arms, munsell-yellow forearms with a web-orange inner arm and part of a front bumper, silver hands with a munsell-yellow backhand, munsell-yellow hip with web-orange sections, black upper legs, munsell-yellow lower legs with a web-orange center, black feet, and black markings on each limb (a compass on the right shoulder, and stripes on the left shoulder and legs). His vehicle form is a 3-door SUV based on a Mitsubishi Pajero. To blend in with humans, Glober occupies his driver's seat with a mannequin. It has outdoorsy clothes, a drawn-on face, and is named "Jones".
+
+Arsenal & Techniques
+Metal Card - Shadow Whip (메탈카드 - 쉐도우 윕, Metal Kadeu - Swedou Web): A gauntlet equipped with a firearm barrel and a metallic whip attached on Glober's right arm.
+Catcher Whip (캐쳐 윕, Kaechyeo Wib): Glober uses the Shadow Whip to bind the opponent and make them unable to move.
+Thunder Whip (썬더 윕, Sseondeo Wib): Glober binds the opponent with the Shadow Whip and then emits a strong electric current through the weapon to electrocute the opponent.
+Cutter Whip (커터 휩, Keoteo Wib): Glober generates and unleashes from one to multiple orange-yellow crescent energy slashes from cracking the Shadow Whip.
+
+#### Deep Bite (딥바이트)
+
+Deep Bite (딥바이트, Dibbaiteu) is a new Cardbot in Metal Cardbot S. He is known on Planet Machina as the "Outlaw of the Sea" (바다의 무법자라는, Badaui Mubeobjalaneun) due to his bestial appearance, but is actually a gentle soul and is also a friend of Glober. As his appearance was accepted by Jun Grant, Blue Cop and Rock Crush while Red Blitz accepted him for his underwater abilities, Deep Bite volunteered to be sealed and joined the Cardbots. After the final battle for the Speranza, Deep Bite joined the Speranza crew to pay his debt for biting Gigantrex's head, and to search for the Organizer that fell into the lake.
+
+In Metal Cardbot W, it was revealed that Deep Bite is a Wild Cardbot carrier and the Beast Virus was the source of his tooth ailment, which led to Soleil abducting him, but she chose to return him to Jun Grant later.
+
+History
+On the planet Machina, Deep Bite was born a Wild Cardbot, which made him ostracized by the Metal Cardbots. As a result, Deep Bite decided to act feral and attack anything and anyone on sight, gaining the nickname "Outlaw of the Sea". Despite his appearance, Glober befriended and treated him with respect until they were forced to leave their dying world before its destruction, partaking a long journey to the planet Earth. After arriving, Deep Bite sustained damage to his vehicle form's metal teeth, rendering him crazy and attacking anything in sight underwater. One day, he came across a freighter carrying Gigantrex sealed in a slab and sunk it, leading to Gigantrex's awakening before Deep Bite bit down into Gigantrex's head, infecting the latter with the Beast Virus that caused severe damage physically and mentally.
+
+Appearance
+Deep Bite is an ultramarine-blue Wild Cardbot with a shark/diver motif, a head with one shark dorsal fin on the top and a fin on both the left and right side, black sections, sea-green scuba mask connected to a snorkel fused with the jawline-style faceplate, a dorsal fin symbol on each side, yellow distinctive eyes, a white torso with a black shark head on the chest and side yellow sections, ultramarine-blue trapezoid shoulders with black vents and both yellow and white parts, ultramarine-blue forearms with a fold-in fin and sea-green wrist rings, white upper arms and upper legs, black hands with claw-based fingers, an ultramarine-blue hip with a yellow-ringed black upper section, ultramarine-blue lower legs with half a submarine hull on each side, sea-green strips on the shins, white calves, black feet with two-pronged silver tips, yellow triangles on the base and a rudder as a heel each, and the back contains a unit comprised of shark motif parts, consisting of upper head, pectoral fins, and a small shark tail with two boosters. His vehicle form is a submarine with a shark head, four pectoral fins, the tail and the submarine sail acting as the dorsal fin.
+
+Arsenal & Techniques
+Metal Card - Deep Trident (메탈카드 - 딥 트라이던트, Metal Kadeu - Dib Teulaideonteu): A large rifle with a trident blade serving as the muzzle. It's carried in a holster on Deep Bite's right side when used as a firearm. In close combat, it can be wielded as a spear.
+Beam Trident (빔 트라이던트, Bim Teulaideonteu): Deep Bite fires a high-pressure water stream from the Deep Trident's spear blade.
+Trident Submarine (트라이던트 서브마린, Teulaideonteu Seobeumalin): Deep Bite generates water at the Deep Trident's muzzle to create a waterspout and throws it at the enemy.
+Trident Gatling (트라이던트 게틀링, Teulaideonteu Geteulling): The Deep Trident's blade rotates rapidly to fire water bolts like a machine gun.
+Trident Cannon (트라이던트 캐논, Teulaideonteu Kaenon): Deep Bite fires the Deep Trident's trident blade like a harpoon.
+Abyss Cannon (어비스 캐논, Eobiseu Kaenon): A firearm with a bayonet wielded exclusively in Deep Bite's left hand. The accuracy is high enough to hit drones from a distance. When not in use, it is stored on the left side of Deep Bite's waist.
+
+#### Rock Crush (록 크러쉬)
+
+Rock Crush is a Cardbot in Metal Cardbot S and a longtime friend of Glober from the days of Planet Machina. After its destruction, they drifted through space in their individual escape pods until arriving on Earth after a long journey. However, during the landing process, Glober's escape pod crashed due to an accident, and they were separated. While Glober landed in a peaceful nature area, Rock Crush ended up in Mowtown and suffered from the overwhelming noise coming from all directions. In an attempt to escape the chaos, Rock Crush went underground, but he accidentally came into contact with a power transmission facility and was electrocuted. As a result, his already fragile personality was deeply affected, and he became a reclusive loner, avoiding everything and showing intense hostility toward anyone who approached him, regardless of whether they were friend or foe.
+
+Appearance
+Rock Crush is an indigo Cardbot with a miner motif, an indigo mining helmet with a flashlight on top, a crimson chin guard and a crimson drill symbol on each side, light-blue eyes, a green visor that allows him to see in infrared and soundwaves to compensate his poor eyesight, crimson back, shoulders and upper arms, black forearms, silver hands, an indigo/crimson torso with a golden-yellow plate in the center, the first tread set are stored on the back, a black lower torso, an indigo hip with a golden-yellow three-pronged drill buckle, indigo legs with a black center, the second tread set and silver knee extensions each, indigo feet with a black base, and one half of his Megalo Drill placed on each arm as a gauntlet. His vehicle form is a drilling tank with tracked treads.
+
+Arsenal & Techniques
+Metal Card - Freezer Chest (메탈카드 - 프리저 체스트, Metal Kadeu - Peulijeo Cheseuteu): A drill-themed chest plate attached to Rock Crush's thorax.
+Blizzard Age (블리자드 에이지, Beullijadeu Eiji): An ice beam Rock Crush fires from the Freezer Chest that can freeze anything.
+Spiral Iceberg (스파이럴 아이스 버그, Seupaileol Aiseubeogeu): Rock Crush transfers energy from the Freezer Chest to the Megalo Drill as it spins at maximum speed, spreading cold air around it and piercing the opponent's attacks.
+Megalo Drill (메가로 드릴, Megalo Deulil): Rock Crush's giant drill in vehicle mode that's split in half in robot mode. He is also capable of uniting both halves on one arm.
+
+### 5.3 Flame Nova (플레임노바): The Traitor
 
 **Role:** Main Antagonist of Season 2.
 
@@ -351,6 +402,9 @@ By grounding its alien characters in human struggles—Jun’s growth, Edo’s f
 | **Gigantrex**      | Speranza Crew      | Tanker Truck           | Rex Arm (T-Rex)                 | S2               |
 | **Red Blitz**      | Speranza Crew      | Toyota 86              | Boost Gambiera (Legs)           | S2               |
 | **Cielo**          | Speranza Crew      | Yak-130 Jet            | Nitro Express (Guns)            | S2               |
+| **Glober**         | Explorer           | SUV (Mitsubishi Pajero)  | Shadow Whip (Gauntlet)          | S2               |
+| **Deep Bite**      | Outlaw of the Sea  | Submarine              | Deep Trident / Abyss Cannon     | S2               |
+| **Rock Crush**     | Loner/Miner        | Drilling Tank          | Freezer Chest / Megalo Drill    | S2               |
 | **Flame Nova**     | Antagonist         | Gestalt (4 Vehicles)   | Pyrokinesis                     | S2               |
 | **Blue Cop W**     | Wild Cardbot       | Corvette Police Car    | Howl Gauntlet (Wolf)            | S3               |
 | **Blaion**         | Wild Cardbot       | Fire Engine            | Roar Gauntlet (Lion)            | S3               |

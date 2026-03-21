@@ -1,3 +1,13 @@
+## 2026-03-22 03:47:19
+
+feat: add Horror Night story and Glober/Deep Bite/Rock Crush profiles
+
+- Add Metal Cardbot story: Horror Night at Mowtown Cinema (cardbot-010)
+- Add character profiles for Glober, Deep Bite, and Rock Crush to docs
+- Add three new entries to the Season 2 quick reference table
+
+---
+
 ## 2026-03-21 21:43:29
 
 feat: add Metal Cardbot story - Phantom Hornet vs. Tigun: The Sky Siege of Mowtown
