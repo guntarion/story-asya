@@ -1,3 +1,13 @@
+## 2026-03-21 21:43:29
+
+feat: add Metal Cardbot story - Phantom Hornet vs. Tigun: The Sky Siege of Mowtown
+
+- Add action-comedy story featuring Phantom Hornet and Tigun as rival Wild Cardbots
+- Story follows their clash and unlikely teamwork against a Beast Virus threat
+- Add story metadata to stories.json with immediate unlock date
+
+---
+
 ## 2026-03-05 05:23:54
 
 feat: add two Ramadan-themed Metal Cardbot stories

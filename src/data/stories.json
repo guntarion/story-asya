@@ -287,6 +287,15 @@
       "filename": "cardbot-008-operation-takjil.md",
       "unlockDate": "2025-01-01T00:00:00.000Z",
       "description": "Tachy races to collect iftar food while Sky Gallop transports it to remote villages — but Cielo's overeager improvising throws the whole operation into chaos with iftar minutes away!"
+    },
+    {
+      "id": "cardbot-009",
+      "title": "Phantom Hornet vs. Tigun: The Sky Siege of Mowtown",
+      "slug": "phantom-hornet-vs-tigun-the-sky-siege-of-mowtown",
+      "category": "metalcardbot",
+      "filename": "cardbot-009-phantom-hornet-vs-tigun-sky-siege.md",
+      "unlockDate": "2025-01-01T00:00:00.000Z",
+      "description": "The silent assassin of the sky clashes with the loudest tank alive — but when a Beast Virus threat hits Mowtown, these rivals discover their opposite strengths make them unstoppable together!"
     }
   ]
 }

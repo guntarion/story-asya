@@ -409,3 +409,21 @@ Spark Baton (스파크바톤, Seupakeu Baton): Three rods connected to form a th
 Sky Gallop (스카이갤럽, Seukai Gaelleob) is a Hidden Cardbot in Metal Cardbot S. He is a chivalrous Cardbot that acts as a courier to transport other Hidden Cardbots across Earth. Despite his desire for freedom, he developed a bond with Peruru, which ultimately led to Sky Gallop risking his life to protect her from Flame Nova, and in turn, to be sealed by Peruru to save him from Flame Nova's wrath. After the final battle for the Speranza, Sky Gallop chose to join Peruru and assist in repairing the Speranza.
 
 Sky Gallop is a white Cardbot with an appearance similar to Fleta Z, black sections throughout his body, golden wing symbols throughout the upper torso, green eyes, a black knight-shaped dome on the head, and a golden wing crest with a wind symbol on each side of his head. His vehicle form is a transport aircraft based on a Boeing C-17 with a turbine in each wing. His height is equal to that of Heavy Iron, Gigantrex, and Blue Cop Trinity, and he is currently the largest Cardbot in vehicle mode. He sustained damage to his left shoulder from military jets and initially kept it as a reminder to not trust humans; he had it repaired after the battle for the Speranza.
+
+## Phantom Hornet
+
+Phantom Hornet (팬텀호넷, Paenteom Hones) is one of the Wild Cardbots in Metal Cardbot W. Among the Wild Cardbots, Phantom Hornet is known as the "Assassin of the Sky". Initially wanting to be left alone, he came to learn alongside the humans and not fight the Metal Cardbots after being sealed by Soleil.
+
+History
+Appearance
+Phantom Hornet is a burgundy Cardbot designed after the attire of a Japanese shinobi with a hornet motif, yellow sections on the arms and legs, a yellow shuriken symbol on each shoulder positioned like an "X", green distinctive hexagonal eyes with a unique frame, black hands with claw-based fingers, silver portions on the lower body, wide forearms designed after a hornet and honeycomb, black three-bladed and mesh centered propellors on his back that grant him limited flight like wasp wings, and a wasp wing symbol on each side of the head. His vehicle form is a helicopter with a coaxial rotor (two rotors in a stacked position), a turbine on each side, and a heavy hornet motif.
+
+Personality
+Arsenal & Techniques
+Metal Card - Buzz Sting (메탈카드 - 버즈스팅, Metal Kadeu - Beojeus Suting): A gauntlet mounted on the left arm with a large kunai-style stinger that can spin like a drill. The upper part is decorated with a hornet's head.
+Venospear (베노 스피어, Benoseupieo): Generates and fire poison energy stings through the Buzz Sting. The attack also contains the Beast Virus pathogen.
+Sting Raid (스팅 레이드, Seuting Leideu): Fencing strikes with the Buzz Sting.
+Infernal Stinger (인페르날 스팅거, Inpeleunal Seutinggeo): Concentrates energy into the Buzz Sting and forms a silhouette of a hornet to pierce the opponent.
+Vernier (버니어, Beonieo): The thruster concealed in Phantom Hornet's arms can convert into cannons for long-range combat.
+Kunai: Phantom Hornet can materialize energy kunai and throw them at his opponents.
+Phantom-Legion (팬텀 리전, Paenteom Lijeon): Phantom Hornet's technique that creates holographic clones to confuse enemies, while the original executes a strike to the distracted opponent.
