@@ -1,3 +1,18 @@
+## 2026-03-30 11:20:06
+
+feat: add Metal Cardbot S1/S2/S3 character guides and YouTube story
+
+- Add comprehensive Season 1 character guide (docs/character-guide/metal-cardbot-session-1-guide.md)
+  covering all 12 S1 Cardbots with full profiles, weapons, personality, and story-writing tips
+- Add comprehensive Season 2 & 3 character guide (docs/character-guide/metal-cardbot-session-2-3-guide.md)
+  covering Speranza Crew, Hidden Cardbots, Wild Cardbots, and human characters Peruru and Soleil
+- Both guides sourced via Playwright browser automation from the Metal Cardbot Fandom wiki
+- Add story cardbot-011 "One More Video" — S1 characters discover YouTube; Buster Gallon deploys
+  Mini Gallons as viewing companions, Buffalo Crush watches mukbang, Shadow X can't stop laughing
+  at ninja fails, and Blue Cop insists his 47-video police chase playlist is "professional research"
+
+---
+
 ## 2026-03-22 03:47:19
 
 feat: add Horror Night story and Glober/Deep Bite/Rock Crush profiles

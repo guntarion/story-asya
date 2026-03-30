@@ -305,6 +305,15 @@
       "filename": "cardbot-010-horror-night-at-mowtown-cinema.md",
       "unlockDate": "2025-01-01T00:00:00.000Z",
       "description": "Glober takes his old friends Rock Crush and Deep Bite to a horror movie — Rock Crush freezes the screen in panic, Deep Bite roasts the monster's swimming technique, and everyone learns that fear is better faced with friends!"
+    },
+    {
+      "id": "cardbot-011",
+      "title": "One More Video",
+      "slug": "one-more-video",
+      "category": "metalcardbot",
+      "filename": "cardbot-011-one-more-video.md",
+      "unlockDate": "2025-01-01T00:00:00.000Z",
+      "description": "Buster Gallon discovers YouTube and within an hour the entire garage is lost in rabbit holes — Mega Trucker's salsa-ing, Buffalo Crush is watching mukbang, and Blue Cop claims his 47-video police chase playlist is 'professional research'!"
     }
   ]
 }
