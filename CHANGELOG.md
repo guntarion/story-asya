@@ -1,3 +1,20 @@
+## 2026-04-05 11:46:43
+
+feat: add two S2/S3 Metal Cardbot adventure stories
+
+- Add cardbot-012: "Speranza Showdown: The Cosmic Stone Heist" — The Stone
+  Raiders launch a 3-pronged assault on Edo Motors (sea, tunnel, aerial) to
+  steal Flame Nova's confiscated Cosmic Stones; features full Speranza Crew
+  (Gigantrex, Red Blitz, Cielo, Musclehyde), Deep Bite, Rock Crush, Glober,
+  and Blastrain alongside Jun and Peruru
+- Add cardbot-013: "Wild Code: The Night the Jungle Woke" — A cracked Machina
+  artifact floods Mowtown Station with Beast Virus spores; Tigun, Night Griffon,
+  Phantom Hornet, and Tachy battle a growing mechanical jungle while Jun and
+  Soleil learn that true partnership can't be forced, culminating in Grand Bluleon
+- Register both stories in src/data/stories.json with immediate unlock dates
+
+---
+
 ## 2026-03-30 11:20:06
 
 feat: add Metal Cardbot S1/S2/S3 character guides and YouTube story

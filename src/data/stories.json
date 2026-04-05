@@ -314,6 +314,24 @@
       "filename": "cardbot-011-one-more-video.md",
       "unlockDate": "2025-01-01T00:00:00.000Z",
       "description": "Buster Gallon discovers YouTube and within an hour the entire garage is lost in rabbit holes — Mega Trucker's salsa-ing, Buffalo Crush is watching mukbang, and Blue Cop claims his 47-video police chase playlist is 'professional research'!"
+    },
+    {
+      "id": "cardbot-012",
+      "title": "Speranza Showdown: The Cosmic Stone Heist",
+      "slug": "speranza-showdown-the-cosmic-stone-heist",
+      "category": "metalcardbot",
+      "filename": "cardbot-012-speranza-showdown-the-cosmic-stone-heist.md",
+      "unlockDate": "2025-01-01T00:00:00.000Z",
+      "description": "The Stone Raiders launch a three-pronged assault on Edo Motors to steal Flame Nova's confiscated Cosmic Stones — and the entire Speranza Crew, Deep Bite, Rock Crush, Cielo, and Jun and Peruru must hold every front at once!"
+    },
+    {
+      "id": "cardbot-013",
+      "title": "Wild Code: The Night the Jungle Woke",
+      "slug": "wild-code-the-night-the-jungle-woke",
+      "category": "metalcardbot",
+      "filename": "cardbot-013-wild-code-the-night-the-jungle-woke.md",
+      "unlockDate": "2025-01-01T00:00:00.000Z",
+      "description": "A cracked Machina artifact under Mowtown Station floods the city with Beast Virus spores — Tigun, Night Griffon, Phantom Hornet, and Tachy must battle a growing mechanical jungle while Jun and Soleil learn that true partnership can't be forced, only built!"
     }
   ]
 }
