@@ -332,6 +332,15 @@
       "filename": "cardbot-013-wild-code-the-night-the-jungle-woke.md",
       "unlockDate": "2025-01-01T00:00:00.000Z",
       "description": "A cracked Machina artifact under Mowtown Station floods the city with Beast Virus spores — Tigun, Night Griffon, Phantom Hornet, and Tachy must battle a growing mechanical jungle while Jun and Soleil learn that true partnership can't be forced, only built!"
+    },
+    {
+      "id": "cardbot-014",
+      "title": "The Knight Who Adopted a Little Brother",
+      "slug": "the-knight-who-adopted-a-little-brother",
+      "category": "metalcardbot",
+      "filename": "cardbot-014-night-griffon-adopts-red-blitz.md",
+      "unlockDate": "2025-01-01T00:00:00.000Z",
+      "description": "Night Griffon decides Red Blitz needs a big brother — whether Red Blitz wants one or not. Between burnt cooking, dramatic speeches, and one very bad crash, the knight and the Red Flash discover that family doesn't have to make sense to be real."
     }
   ]
 }

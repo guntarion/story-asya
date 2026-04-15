@@ -1,3 +1,13 @@
+## 2026-04-16 05:51:07
+
+feat: add Night Griffon adopts Red Blitz story
+
+- New Metal Cardbot story (cardbot-014) where the narcissistic knight
+  Night Griffon unilaterally decides Red Blitz needs a big brother
+- Register entry in stories.json with immediate unlock date
+
+---
+
 ## 2026-04-05 11:46:43
 
 feat: add two S2/S3 Metal Cardbot adventure stories
